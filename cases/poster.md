@@ -7300,3 +7300,565 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
 ```
 
+### Case 361: [Luxury Birthday Poster 3:4](https://x.com/Taaruk_/status/2064548138422263945) (by [@Taaruk_](https://x.com/Taaruk_))
+
+![Luxury Birthday Poster 3:4](../../images/poster_case361/output.jpg)
+
+**Prompt:**
+```
+Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premium off white luxury paper textured wall. Large number “2” precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: soft pink and pink balloons, subtle white flowers, elegant bouquet arrangement, premium celebration styling. A happy 2 year old child with preserved reference facial features, wearing a milky white T shirt and pink denim overalls, laughing naturally. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Warm cinematic sunlight from one side, soft rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER. Clean minimalist layout, luxury magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts.
+```
+
+### Case 362: [Window Girl Fashion Editorial](https://x.com/iamaiistudio/status/2064545132180074569) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Window Girl Fashion Editorial](../../images/poster_case362/output.jpg)
+
+**Prompt:**
+```
+://t.co/yMuwrbQO3u
+
+Ultra-photoreal fashion editorial. A young woman sits casually inside the open window of a soft warm yellow house, one leg extended outward and raised, the other relaxed, one arm hanging freely. She wears a white satin midi slip dress with thin straps and fluid fabric, clean white over-ear headphones, and simple white flat shoes. She holds a loose bouquet of fresh yellow flowers in one hand. Expression: calm, relaxed confidence, gaze forward or slightly to the side.
+
+Architecture: simple rectangular window, white interior walls, clean uncluttered sunlit facade. Midday direct natural sunlight, crisp shadows.
+
+Camera: 35mm lens, centered full-body framing within the window frame, moderate depth of field with sharp background. Color grade: warm yellows, clean whites, natural skin tones. Aspect ratio 4:5. No text, no watermark. Ultra-high-res, ultra-photoreal editorial render.
+
+#AIart #GPTImage2
+```
+
+### Case 363: [Premium Streetwear Graphic Tee](https://x.com/j_smeaton99/status/2064540729528267108) (by [@j_smeaton99](https://x.com/j_smeaton99))
+
+![Premium Streetwear Graphic Tee](../../images/poster_case363/output.jpg)
+
+**Prompt:**
+```
+Create a high-end fashion product photo of a modern oversized streetwear T-shirt. The shirt features a large, professionally designed graphic print on the front. Design style: contemporary urban streetwear, bold typography mixed with futuristic geometric elements, clean vector artwork, subtle distressed textures, premium screen-print aesthetic, balanced composition, visually striking but wearable. Color palette: black, white, silver, and electric blue accents. The design should look like it belongs in a luxury streetwear collection. Photorealistic fabric texture, realistic folds, premium cotton material, studio lighting, fashion campaign quality, ultra-detailed, sharp focus, e-commerce ready, trend-forward apparel design.
+```
+
+### Case 364: [Three-Frame Nightlife Collage](https://x.com/mehvishs25/status/2064539698027258333) (by [@mehvishs25](https://x.com/mehvishs25))
+
+![Three-Frame Nightlife Collage](../../images/poster_case364/output.jpg)
+
+**Prompt:**
+```
+Create image Create a photorealistic three-frame vertical nightlife collage inspired by the supplied reference image. Preserve the subject's facial identity, facial structure, skin tone, hairstyle, and overall appearance while placing her in a fashionable late-evening social setting.
+
+The subject is an adult woman in her mid-to-late twenties with long, voluminous dark brown hair styled in soft natural waves, radiant skin, refined soft-glam makeup, defined eyelashes, and glossy neutral-toned lips. Her expression feels warm, confident, and effortlessly playful.
+
+Wardrobe:
+A sophisticated black evening dress with a modern fitted silhouette, paired with delicate silver jewelry including rings and a minimalist pendant necklace. Contemporary nightlife fashion styling with an elegant, upscale aesthetic.
+
+Frame 1:
+She sits comfortably at a cocktail table, leaning back with both hands resting behind her head while laughing naturally. The image should feel spontaneous, candid, and genuinely joyful, as if captured during a memorable night out.
+
+Frame 2:
+She glances to the side while casually enjoying a french fry. Relaxed posture, authentic expression, and an unposed social atmosphere that captures a fleeting real-life moment.
+
+Frame 3:
+She holds a vintage corded telephone receiver near her ear while gazing upward thoughtfully. The mood combines nostalgic early-2000s inspiration with a modern fashion-editorial feel.
+
+Location:
+A stylish contemporary lounge or cocktail bar featuring dark interiors, industrial metal accents, warm ambient lighting, drinks on tables, small plates, and subtle nightlife details. The environment should feel lively, intimate, and realistic.
+
+Photography:
+Direct on-camera flash photography with realistic exposure characteristics. Bright flash illumination on the subject, natural skin texture, crisp details, deep environmental shadows, subtle highlight bloom, and an authentic early-digital-camera aesthetic.
+
+Style Direction:
+
+Candid nightlife photograph
+```
+
+### Case 365: [Travel Planning Tabletop Scene](https://x.com/Naiknelofar788/status/2064532259596816668) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+![Travel Planning Tabletop Scene](../../images/poster_case365/output.jpg)
+
+**Prompt:**
+```
+A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A detailed map of [LOCATION] lies on a warm wooden desk under a cozy black desk lamp. Emerging from the map are handcrafted papercraft landmarks, iconic attractions, landscapes, and cultural highlights from [LOCATION], positioned in their approximate geographic locations.
+A tiny traveler character with a backpack and rolling suitcase follows a dotted red journey route across the map, creating a visual story of exploration. The traveler is mid-journey between destinations.
+A modern smartphone displays a "[LOCATION] eSIM" travel connectivity screen. Around the map are travel-planning accessories including a notebook itinerary, postcards, camera, passport, travel books, and local-themed souvenirs.
+Mixed-media diorama style, intricate papercraft architecture, layered paper terrain, miniature trees, realistic desk objects, warm cinematic lighting, shallow depth of field, highly detailed textures, editorial travel photography, Pinterest aesthetic, premium commercial advertising, ultra-realistic, 8k quality, rich storytelling, clean composition.
+Include these [LOCATION] highlights: [LANDMARK LIST].
+Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
+```
+
+### Case 366: [iPhone Candid Notebook Photo](https://x.com/iamaiistudio/status/2064530096720150770) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![iPhone Candid Notebook Photo](../../images/poster_case366/output.jpg)
+
+**Prompt:**
+```
+://t.co/4zY2WLrQci
+
+Candid photo of a flat open notebook covered in black ballpoint pen handwriting. Notes look personal and authentic, with slightly messy lettering, crossed-out words, and underlined section headers. Angle slightly overhead, soft natural window light, no flash. Simple desk environment, iPhone camera aesthetic.
+
+#AIart #GPTImage2
+```
+
+### Case 367: [French New Wave Film Still](https://x.com/iamaiistudio/status/2064515035708408119) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![French New Wave Film Still](../../images/poster_case367/output.jpg)
+
+**Prompt:**
+```
+Black and white cinematic image in 1950s-60s French New Wave style. Two people standing close on a narrow Parisian street at dawn, not quite touching, intimacy expressed through proximity alone. She tilts slightly toward him; he gazes past her, deep in thought. Simple clothing: trench coats, knit sweaters, no excess. Natural faces, honest expressions, no glamour. Stone walls, shuttered windows, stacked cafe chairs, a bicycle leaning against the wall. Eye-level static camera, wide negative space, slightly imperfect composition. Soft diffused daylight, subtle 35mm film grain, gentle shadows. Emotion through stillness and silence, love present but unspoken. Godard and Truffaut aesthetic: restrained, observational, melancholic art-house romance.
+```
+
+### Case 368: [Nighttime Japanese Theater Cinematic](https://x.com/Preda2005/status/2064507889818144850) (by [@Preda2005](https://x.com/Preda2005))
+
+![Nighttime Japanese Theater Cinematic](../../images/poster_case368/output.jpg)
+
+**Prompt:**
+```
+Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor Japanese theater performance. The camera feels like a handheld smartphone recording from the crowd, with silhouetted audience heads and raised phones in the foreground. On stage, a cute plush capybara mascot girl named Capychan stands small but heroic, with a round chubby body, huge capybara hood, pineapple crown, yellow number 10 jersey, blonde-and-green hair, heterochromia eyes, and two glowing energy swords, one green and one gold. She faces a colossal original samurai robot with black, red and gold armor, glowing red eyes, and a massive mechanical katana. The stage has a traditional Japanese village gate, bamboo forest, lanterns, taiko drums, smoke, sparks, explosions, dramatic spotlights, and a realistic live performance atmosphere. Make the image dynamic, as if captured during a fast battle scene, with motion energy, smoke trails, impact sparks, and epic scale contrast. No copyrighted characters, no logos, no subtitles. Cinematic, high detail, realistic audience-recorded viral video frame.
+```
+
+### Case 369: [Furniture Product Sheet Layout](https://x.com/iamaiistudio/status/2064499654725902349) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Furniture Product Sheet Layout](../../images/poster_case369/output.jpg)
+
+**Prompt:**
+```
+://t.co/UuHTKEB9Ff
+
+Create a high-quality realistic 3D product showcase for a table, using a split-view layout (3:2 or 4:3 aspect ratio) on a neutral light gray or white background.
+
+Left side — Table Perspectives:
+- Top-down view: full tabletop shape, surface texture, and edge details
+- Side view: leg design, table height, and tabletop thickness
+- Front view: width, symmetry, and leg alignment
+Use consistent lighting with subtle shadows for realism.
+
+Right side — Material Breakdown:
+- Tabletop: solid or engineered wood, with a close-up wood texture swatch and clean sans-serif label
+- Legs: polished oak wood or metal, with a material texture swatch and consistent labeling
+- Frame: matte black steel, with a small metallic texture swatch and minimalist annotation
+
+Separate the two sections with a vertical dividing line or subtle split background. Use natural tones for materials and grayscale for backgrounds and lines. Modern readable font for labels and section titles. Output as a high-resolution image suitable for a product sheet, interior design catalog, or furniture showcase.
+
+#AIart #GPTImage2
+```
+
+### Case 370: [Anime Character Concept Showcase](https://x.com/itsPixieVerse/status/2064496721431024075) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+![Anime Character Concept Showcase](../../images/poster_case370/output.jpg)
+
+**Prompt:**
+```
+Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
+
+[STYLE]: highly polished stylized 3D CGI anime style, modern cinematic 3D magical girl aesthetic with clean soft-shading, vibrant magical reflections, and shimmering particle effects
+
+[SUBJECT_DESCRIPTION]: A beautiful celestial magical girl with cosmic powers. She wears an elegant, asymmetric mid-length dress made of deep midnight-blue fabric that subtly mimics a night sky filled with drifting constellations. The dress is detailed with intricate gold filigree along the hem, a single flowing white sleeve, and a delicate silver corset woven with stellar patterns. Softly glowing, semi-translucent ribbons of pure light gently wrap around her arms. She has long, shimmering pastel-pink hair styled in soft waves, expressive golden-amber eyes, and a graceful crown of small star crystals. Her design is highly elegant and unique, radiating a gentle but immense stellar power without traditional sailor motifs.
+
+Create the layout in a clean 16:9 widescreen format on a neutral studio gray or warm off-white background with a minimal technical border. The design must look like a premium production visual bible, using clean typography, no clutter, no watermarks, and no logos. Apply [STYLE] only to the character and visual elements, keeping the presentation layout clean, structured, and minimal.
+
+Infer all missing details from the subject description, including name, role, brief background specs, and a cohesive color palette.
+
+Use this tri-fold layout:
+
+1. HERO SPOTLIGHT (Left 40% of the board)
+
+- Show one large, highly detailed full-body dynamic action pose of the subject.
+
+- This pose should showcase the character's primary personality, attitude, and silhouette.
+
+2. TECHNICAL TURNAROUND (Center 35% of the board)
+
+- Show exactly two clean full-body views: Front View and Back View.
+
+- The subject should be in a relaxed, neutral stance.
+
+- Place these views over very subtle vertical and horizontal 
+```
+
+### Case 371: [Dopamine Burst 3D Poster](https://x.com/iamaiistudio/status/2064485010653225077) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Dopamine Burst 3D Poster](../../images/poster_case371/output.jpg)
+
+**Prompt:**
+```
+://t.co/iW2ocxdKQR
+
+prompt:
+
+Modern internet visual design excellence, Behance / Dribbble 3D illustration poster aesthetic, C4D-style soft-light rendering, high-saturation vibrant colors, dopamine color palette, abstract art direction, clean minimalist background, visually uplifting and cheerful, refined and intricate detail. Theme: Play Wildly.
+
+#AIart #GPTImage2
+```
+
+### Case 372: [Scandinavian Branding Mockup](https://x.com/iamaiistudio/status/2064469666521829435) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Scandinavian Branding Mockup](../../images/poster_case372/output.jpg)
+
+**Prompt:**
+```
+://t.co/keLYasNByE
+
+prompt:
+
+Minimal personal branding identity mockup for a female entrepreneur or creator, displayed on a soft neutral background. Includes a framed portrait with elegant typography, a circular logo with a hand-drawn line-art face illustration, and branded merchandise: white tee, tote bag, and ceramic mug with the same logo print. Grid-style social media layout showing portrait photography, behind-the-scenes content, quote tiles, and solid color brand blocks in warm beige, cream, and muted terracotta. Soft natural lighting, premium lifestyle photography, Scandinavian-inspired aesthetic, balanced editorial composition, consistent brand typography, high-end creative agency presentation.
+
+#AIart #GPTImage2
+```
+
+### Case 373: [Hand-drawn Doodle Art Overlay](https://x.com/iamaiistudio/status/2064454454553051298) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Hand-drawn Doodle Art Overlay](../../images/poster_case373/output.jpg)
+
+**Prompt:**
+```
+://t.co/jBGrThiRdq
+
+prompt:
+
+Take the uploaded photo and keep the subject completely unchanged — same face, pose, framing, and lighting, no warping or distortion. Layer expressive hand-drawn illustrations on top that playfully interact with the person or scene.
+
+Have the doodles react to what's in the frame: follow gestures, amplify movement, trace body outlines, or bring in imaginative details that feel connected to the moment. The sketches should look deliberate, like someone drew straight onto the print with spontaneous yet thoughtful pen strokes.
+
+Go for a loose, slightly rough drawing style — wobbly lines, organic curves, a sketchbook aesthetic. Add handwritten words or short captions that fit the vibe of the image: make them clever, context-specific, and genuinely playful rather than generic filler.
+
+Keep the illustrated additions from overwhelming the original photo. Aim for a balanced final composition with crisp, high-res output and a color palette that feels native to the original scene.
+
+#AIart #GPTImage2
+```
+
+### Case 374: [Japanese Ad Banner 2x2 Grid](https://x.com/iamaiistudio/status/2064440310479176084) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Japanese Ad Banner 2x2 Grid](../../images/poster_case374/output.jpg)
+
+**Prompt:**
+```
+://t.co/9AyRJEG6VB
+
+{
+  "type": "2x2 grid of Japanese-style digital advertisement banners",
+  "layout": {
+    "structure": "4 equal quadrants",
+    "quadrants": [
+      {
+        "position": "top-left",
+        "theme": "Travel",
+        "subject": "A couple holding hands walking along a white sandy beach, gazing at crystal-clear turquoise water beneath a vivid blue sky.",
+        "elements": ["red hibiscus flower in the lower-left corner"],
+        "text_labels": [
+          "This year, break free.",
+          "{argument name=\"travel destination\" default=\"Okinawa Trip\"}",
+          "3-day relaxation getaway",
+          "Flights + Hotel",
+          "Starting from ¥39,800",
+          "Views, food, and experiences — all covered!"
+        ],
+        "icons": {
+          "count": 3,
+          "descriptions": ["airplane", "hotel building", "car"]
+        }
+      },
+      {
+        "position": "top-right",
+        "theme": "Skincare",
+        "subject": "Close-up of a young woman with radiant, dewy skin, eyes gently closed, lightly pressing both hands to her cheeks.",
+        "elements": [
+          "soft pink gradient background",
+          "dynamic water splash effects",
+          "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'"
+        ],
+        "text_labels": [
+          "Bye bye pores and dullness!",
+          "Radiance overflowing",
+          "Achieve glass-like dewy skin",
+          "Next-level skincare sensation",
+          "First order 78% OFF",
+          "{argument name=\"discount price\" default=\"¥1,980\"}"
+        ],
+        "badges": {
+          "count": 3,
+          "style": "gold circular",
+          "labels": ["Pore care", "Deep hydration", "Firmness & luminosity"]
+        }
+      },
+      {
+        "position": "bottom-left",
+        "theme": "Gourmet Food",
+        "subject": "Thick medium-rare steak slices sizzling on a dark cast-iron grill plate.",
+        "elements": [
+          "crispy g
+```
+
+### Case 375: [Argentina Football Uniform Promo](https://x.com/AIwithAliya/status/2064424561622634711) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+![Argentina Football Uniform Promo](../../images/poster_case375/output.jpg)
+
+**Prompt:**
+```
+ARGENTINA NATIONAL TEAM
+
+"NEW UNIFORM"
+
+FORMAT
+
+Ultra-Premium Football Fashion SMM Promotional Poster
+Vertical 4:5
+Instagram Hero Creative
+Global Sportswear Advertising
+Commercial Football Graphic Design
+Agency-Level Art Direction
+Behance Front Page Quality
+8K UHD
+Hyper-Realistic
+Football × Fashion × Graphic Design Fusion
+Zero AI Slop
+Zero Generic Sports Posters
+Zero Match-Day Graphics
+Zero Editorial-Only Aesthetic
+
+CORE STRATEGY
+
+This is not a football poster.
+
+This is a national identity statement disguised as a uniform campaign.
+
+The design should feel like Argentina's biggest football billboard,
+a luxury sportswear campaign,
+and a World Cup legacy poster
+merged into one visual.
+
+The graphic design is equally important as the athlete.
+
+Typography is not decoration.
+
+Typography is architecture.
+
+CAMPAIGN IDEA
+
+"NEW UNIFORM"
+
+Not just a jersey.
+
+A symbol of legacy.
+
+A symbol of champions.
+
+A symbol worn by those who carry history forward.
+
+The uniform isn't being sold.
+
+The identity is.
+
+MASTER VISUAL
+
+Massive oversized ARGENTINA typography dominates the entire composition.
+
+The word:
+
+ARGENTINA
+
+occupies nearly 75% of the canvas.
+
+Typography is integrated into the design.
+
+Letters extend beyond frame edges.
+
+Some letters cropped.
+
+Some hidden behind the player.
+
+Some functioning as compositional structures.
+
+The typography should feel monumental.
+
+The official federation crest appears subtly integrated into the layout.
+
+HERO SUBJECT
+
+Elite female footballer.
+
+Natural beauty.
+
+Confident expression.
+
+Minimal makeup.
+
+Champion mentality.
+
+No smiling.
+
+No dramatic celebration.
+
+Relaxed confidence.
+
+Wardrobe:
+
+Argentina 2026 home jersey.
+
+Sky-blue and white stripes.
+
+Matching shorts.
+
+Premium football socks.
+
+Modern football styling.
+
+Clean elite-athlete aesthetic.
+
+POSE
+
+Player stepping through the giant typography.
+
+One foot slightly forward.
+
+Direct eye contact.
+
+Hands relaxed.
+
+Body partially intersecting typography.
+
+The feeling:
+
+She carries the weight of champio
+```
+
+### Case 376: [Food Ad Layered Dessert](https://x.com/iamaiistudio/status/2064424485328204244) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Food Ad Layered Dessert](../../images/poster_case376/output.jpg)
+
+**Prompt:**
+```
+://t.co/C2JI1bwCCZ
+
+prompt:
+
+A partially bitten realistic classic [brand] product resting on a plate, exposing layered dessert fills inside, cake crumbs scattered around, a used fork and knife lying nearby, against a softly blurred high-end restaurant background, a small white brand logo positioned at the top of the image with a fitting brand slogan in tiny text just beneath it.
+
+#AIart #GPTImage2
+```
+
+### Case 377: [Claymation Teen Girl with Headphones](https://x.com/ZephyraLeigh/status/2064422178683228483) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+![Claymation Teen Girl with Headphones](../../images/poster_case377/output.jpg)
+
+**Prompt:**
+```
+[SUBJECT]: A bold claymation teenage girl with clay space buns and a vinyl clay jacket, wearing oversized Sony WH-1000XM5 headphones in clay form, a tiny baby wolf pup made of grey clay howling beside her clay record player
+
+[COLORS]: Sony black, brushed silver clay, neon electric blue, warm white
+
+[KEY PROP]: Oversized clay Sony WH-1000XM5 headphones with NC button glowing blue, a clay vinyl record spinning on a miniature clay turntable with clay sound waves rising from it
+
+[BACKGROUND]: Claymation music bedroom with clay vinyl records covering every wall, a clay neon sign reading PLAY LOUD, LED strips baked into clay shelves
+
+[MOOD]: Bold, rebellious and music-obsessed — Sony claymation teen campaign editorial, bedroom DJ aesthetic
+
+[MAGAZINE NAME]: DECIBEL TEEN
+
+[HEADLINE]: "Silence Everything Else"
+
+[TAGLINE]: The Headphones That Hear Only What Matters — The Sound Issue
+
+[BRAND NAME]: SONY — WH-1000XM5 Noise Cancelling Headphones
+
+[STYLE NOTES]: Clay headphone ear cups with embossed Sony logo, sound waves as curling clay ribbons, neon sign as glowing colored clay tubing, Aardman Studios meets streetwear aesthetic
+```
+
+### Case 378: [Greek Mythology Olympian Family Tree](https://x.com/92digitalartArt/status/2064420821922152795) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+![Greek Mythology Olympian Family Tree](../../images/poster_case378/output.jpg)
+
+**Prompt:**
+```
+An Art Nouveau style historical infographic poster in 16:9 horizontal format about Greek mythology, featuring an elegant flowing composition inspired by classical decorative poster design, with ornate floral borders, curling vines, golden laurel motifs, and graceful asymmetrical linework; the central artwork should depict the Olympian family tree as a beautiful mythic tableau with Zeus, Hera, Athena, Apollo, Artemis, Poseidon, and Aphrodite arranged in a ceremonial vertical hierarchy around Mount Olympus, each god or goddess framed by stylized Art Nouveau halos, flowing hair, marble columns, peacocks, olive branches, stars, waves, and moon crescents, all drawn with elongated elegant contours and rich decorative detail; use a palette of deep teal, antique gold, cream, and muted rose, with subtle gradients only in the illustrated figures and background sky; place the title at the top in large ornamental serif lettering reading GREEK MYTHOLOGY, with the subtitle THE OLYMPIAN FAMILY TREE beneath it in smaller elegant text; organize the facts into decorative side panels with graceful curved frames and thin gold rules, including sections labeled ORIGINS, GODS OF OLYMPUS, SYMBOLS, POWERS, HEROES, and LEGACY, plus a small DID YOU KNOW? box near the lower corner with five original myth facts; the entire poster should feel luxurious, classical, poetic, and richly decorative, with no modern UI, no copyrighted artwork, and a true Art Nouveau atmosphere, 16:9 horizontal ratio
+```
+
+### Case 379: [Ultra-realistic Trophy Sports Photography](https://x.com/Goodmanprotocol/status/2064399631187059188) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+![Ultra-realistic Trophy Sports Photography](../../images/poster_case379/output.jpg)
+
+**Prompt:**
+```
+Ultra-realistic sports photography, documentary realism, premium commercial campaign style, immersive 9:16 vertical composition.
+
+The camera is positioned deep inside an opened luxury gift box, creating a dramatic first-person perspective from the hidden treasure itself. A magnificent golden FIFA World Cup trophy rests on elegant dark velvet fabric in the lower foreground, with realistic metallic reflections and authentic textures.
+
+Above the opened box stands [PLAYER NAME], leaning forward and looking directly into the box with an expression of determination, ambition, and hunger for glory. He reaches one hand naturally toward the trophy, symbolizing his dream of winning the FIFA World Cup 2026.
+
+STRICT IDENTITY PRESERVATION OF [PLAYER NAME]. The player must be instantly recognizable as the real [PLAYER NAME], with authentic facial structure, eye shape, nose, lips, jawline, hairstyle, beard style, skin texture, and expression. Preserve his real-world appearance with extreme accuracy. No generic AI face.
+
+Authentic human anatomy, realistic proportions, detailed skin pores, realistic eyes, natural hair strands, genuine facial expression, lifelike appearance, true-to-life colors.
+
+Official national team jersey with realistic fabric folds, stitching, texture, sweat details, and accurate colors.
+
+The official FIFA World Cup 2026 logo is elegantly integrated into the composition with realistic physical appearance. The overall scene incorporates the authentic FIFA World Cup 2026 visual identity and official tournament color palette, creating a premium championship atmosphere.
+
+Warm stadium lights in the distance, subtle crowd bokeh, realistic depth of field, natural shadows, cinematic composition, premium sports advertising photography.
+
+Captured with a Canon EOS R3 and RF 70-200mm f/2.8L lens, Getty Images realism, Reuters sports photography quality, authentic football photography, shallow depth of field, realistic lighting, true-to-life materials.
+
+Luxury black gift box
+```
+
+### Case 380: [Celestial Fantasy Oracle Storyboard](https://x.com/itsPixieVerse/status/2064396369348239452) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+![Celestial Fantasy Oracle Storyboard](../../images/poster_case380/output.jpg)
+
+**Prompt:**
+```
+Create a premium cinematic 12-panel storyboard sheet for a celestial fantasy oracle reveal sequence featuring Astrielle, an ethereal cosmic sorceress who manipulates stars, destiny, and astral energy.
+
+The storyboard should feel like a high-budget fantasy anime film opening mixed with elegant cosmic magic cinematography. The sequence focuses on graceful character reveal, divine cosmic powers, elegant magical movements, reality-bending abilities, and a breathtaking final goddess-like ascension.
+
+Astrielle — celestial oracle with long flowing pastel pink hair, glowing amber eyes, elegant navy-and-gold cosmic dress decorated with star constellations, translucent layered fabrics, floating celestial rings, orbiting star particles, divine cosmic aura, elegant fantasy goddess aesthetic.
+
+Professional production-ready storyboard sheet featuring:
+
+12 cinematic panels
+
+shot numbers
+
+timestamps
+
+camera movement arrows
+
+focal length notes
+
+VFX annotations
+
+clean editorial layout
+
+luxury celestial fantasy presentation
+
+cinematic framing guides
+
+elegant production aesthetics
+
+Extreme wide shot of gigantic galaxy sky with floating celestial ruins drifting through clouds.
+
+Low-angle reveal of Astrielle descending slowly while surrounded by orbiting stars and cosmic ribbons.
+
+Close-up cinematic shot of her glowing amber eyes reflecting constellations.
+
+Macro close-up of cosmic energy flowing through gold star ornaments on her dress.
+
+Wide cinematic shot of floating celestial rings orbiting around Astrielle’s body.
+
+Medium shot as Astrielle raises one hand and creates miniature galaxies in midair.
+
+Overhead shot of glowing constellation sigils forming beneath her feet.
+
+Dynamic cinematic shot of astral energy ribbons spiraling violently around environment.
+
+Heroic levitation shot as giant cosmic sphere manifests behind her like a miniature universe.
+
+Close emotional shot of Astrielle calmly controlling floating stars with elegant hand gestures.
+
+Epic frontal cinematic shot of massive
+```
+
+### Case 381: [3D Product Mockup Smartphone](https://x.com/Samann_ai/status/2064420488445567481) (by [@Samann_ai](https://x.com/Samann_ai))
+
+![3D Product Mockup Smartphone](../../images/poster_case381/output.jpg)
+
+**Prompt:**
+```
+A highly realistic, premium 3D product mockup for a [INSERT BUSINESS TYPE HERE, e.g., modern clothing brand]. A sleek, modern smartphone is elegantly levitating at a dynamic angle in mid-air. Emerging seamlessly from the phone's screen is a continuous, wavy, physical ribbon of printed photos that elegantly flows and wraps around the device in a surreal, gravity-defying way. The photos on the flowing ribbon display stunning, high-quality images of [INSERT PRODUCT/SERVICE IMAGES HERE]. The background is a minimalist, warm beige and soft cream environment with a subtle, textured stone floor. The lighting consists of soft, diffused natural sunlight casting an elegant, diagonal window shadow on the back wall, adding depth. Cinematic lighting, shallow depth of field, ultra-photorealistic, 8k resolution, highly detailed, trendy minimal aesthetic, perfect for an engaging and viral social media post, featuring clean negative space at the top for typography.
+```
+

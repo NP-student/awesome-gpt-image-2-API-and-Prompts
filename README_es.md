@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![775 Curated Prompts](https://img.shields.io/badge/Prompts-775_Curated_Cases-111111)](README.md)
+[![806 Curated Prompts](https://img.shields.io/badge/Prompts-806_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -77,6 +77,8 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
 ## 📰 Novedades
+
+**10 de junio de 2026:** Se añadieron 31 nuevos casos de prompts GPT-Image-2 (9 retratos, 21 carteles, 1 comparación) del lote de curaduría diaria tras revisión y validación de medios
 
 **9 de junio de 2026:** Se añadieron 12 nuevos casos de prompts de GPT-Image-2 (2 retrato, 7 póster, 2 comparación, 1 e-commerce) del lote de curación diario tras revisión y validación de medios
 
@@ -2194,6 +2196,218 @@ Negative prompt:
 - no text
 - no watermark
 ```
+
+<!-- Case 276: High Angle Cinematic Portrait (by @AvelyrahnAI) -->
+### Case 276: [High Angle Cinematic Portrait](https://x.com/AvelyrahnAI/status/2064547040508662240) (by [@AvelyrahnAI](https://x.com/AvelyrahnAI))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case276/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Edit foto wanita tersebut menjadi potret High Angle Sinematik dari seorang wanita muda yang cantik dari sudut pandang belakang. Fokus utamanya adalah pada bahu, lengan, dan sebagian wajahnya yang menghadap ke samping dengan ekspresi tenang. Riasan flawess natural eye shadow semi peach-brown lembut, bulu mata lentik, blush on tipis peach lembut dengan lisptik glossy peach lembut, rambut lurusnya tersanggul keatas agak longgar sedikit ada helaian rambut samping kanan-kirinya membingkai wajahnya. Ia mengenakan atasan sweater rajut dengan model sabrina berwarna cokelat muda. Tekstur kulitnya terlihat sangat halus di bawah siraman cahaya matahari yang terfilter. Latar belakang di outdoor buram (bokeh). Wajahnya menoleh ke samping melihat ke sikataran dengan ekspresi tenang dan sendu. 
+
+Pencahayaan dan Warna :
+Foto ini menggunakan teknik pencahayaan yang kontras (terang-gelap). Cahaya matahari jatuh di bagian bahu dan wajahnya, sementara bagian lainnya tenggelam dalam bayangan. Terdapat bayangan siluet dedaunan atau ranting yang jatuh di punggung dan wajah wanita tersebut, memberikan kesan ia berada di bawah pohon saat matahari mulai terbenam (golden hour).
+Palet Warna: Didominasi oleh warna-warna hangat seperti oranye, golden hour, cokelat yang dikontraskan dengan latar belakang yang redup. 
+
+Komposisi dan Estetika
+Depth of Field: Latar belakangnya sangat buram (bokeh), membuat subjek wanita menonjol. Kesan yang ditampilkan adalah kelembutan, ketenangan. Foto ini tidak terasa seperti foto potret biasa, melainkan lebih seperti potongan adegan dari sebuah film drama puitis.
+Foto ini memiliki atmosfer yang sangat melankolis, artistik, dan sinematik. Komposisinya bermain dengan kontras antara cahaya hangat dan bayangan yang dalam, menciptakan kesan misterius namun intim.
+```
+
+<!-- Case 277: Chiaroscuro Hyper-realistic Portrait (by @iamsofiaijaz) -->
+### Case 277: [Chiaroscuro Hyper-realistic Portrait](https://x.com/iamsofiaijaz/status/2064545265521217953) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case277/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a hyper-realistic 8K cinematic portrait of the uploaded person in a dramatic chiaroscuro style. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera, not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow.
+His expression is contemplative.
+His hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a luxury black chronograph watch with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a sharp black suit jacket over a white dress shirt with the top buttons open, showing refined fabric texture and natural folds.
+The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy.
+```
+
+<!-- Case 278: Kawaii Character Side Profile Portrait (by @VIBEQUIRKLABS) -->
+### Case 278: [Kawaii Character Side Profile Portrait](https://x.com/VIBEQUIRKLABS/status/2064543699460354240) (by [@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case278/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean female portrait subject with white frame, thin-frame glasses, worn normally on the face, lenses aligned over the eyes and small teardrop gemstone earring detail, delicate understated sparkle, natural basic body, about 160-165 cm visual height, balanced torso-to-leg ratio around 4:6, young seductive alluring beauty face, magnetic feminine facial balance, defined eyes and lips, collarbone-length layered hair, airy natural volume, soft face-framing movement, soft black-tea brown hair, muted brown-black salon tone. She is sitting on a chair that naturally fits the current scene. The setting is British record listening corner, turntable setup, stacked vinyl sleeves, bookshelf speakers, aged wood cabinet, lamp fixture, small side table, indoor rainy-day daylight environment, dim grey window brightness. She wears gothic casual knit-and-ruffle outfit, fitted knit top, lace camisole layer, large ribbon bow, high-waist layered ruffle mini skirt. Inspired by Leslie Kee, polished commercial portrait image language. Camera positioned on the subject's left side, 90-degree left profile view, ultra shallow depth of field.
+```
+
+<!-- Case 279: Monochrome Vector Vogue Portrait (by @noorlewisx) -->
+### Case 279: [Monochrome Vector Vogue Portrait](https://x.com/noorlewisx/status/2064539506305561076) (by [@noorlewisx](https://x.com/noorlewisx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case279/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Transform the subject into a striking high-contrast monochrome vector portrait, rendered in a premium black-and-white comic book illustration style with crisp cel-shading, bold geometric shapes, and ultra-clean vector linework. Preserve the subject's facial features, hairstyle, expression, and overall likeness with high accuracy.
+
+The subject is a stylish young woman with long flowing hair, wearing an open dark oversized shirt layered over a fitted white crew-neck T-shirt. She accessorizes with a minimalist square pendant necklace, elegant earrings, and a pair of fashionable sunglasses resting naturally on top of her head, seamlessly integrated into her hairstyle.
+
+Illuminate the portrait with intense red neon rim lighting that traces the contours of her hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.
+
+Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear fashion energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, visually powerful, and magazine-cover worthy. Strong confident female presence, cinematic attitude, luxury editorial feel, and flawless vector illustration quality.
+```
+
+<!-- Case 280: Minimalist Vogue Editorial Cover (by @vireonixx) -->
+### Case 280: [Minimalist Vogue Editorial Cover](https://x.com/vireonixx/status/2064536416592552092) (by [@vireonixx](https://x.com/vireonixx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case280/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a sophisticated high-fashion magazine cover portrait using the provided reference image only for the subject's identity and facial features. Transform the scene into a minimalist Vogue-inspired editorial cover that emphasizes timeless style, intellectual elegance, and refined simplicity.
+
+COMPOSITION & FRAMING:
+Vertical magazine cover format, approximately 4:5 aspect ratio. Upper-torso portrait composition, framed from mid-abdomen to slightly above the head. Subject positioned centrally with balanced negative space around the figure for luxury editorial typography. Clean, uncluttered layout with strong visual breathing room. Direct engagement with the camera creates intimacy and authority.
+
+POSE & BODY LANGUAGE:
+Thoughtful fashion-editorial pose with one hand partially covering the lower face, fingers resting naturally near the nose and lips. Opposite arm folded across the body creating subtle structure. Relaxed shoulders. Slight forward lean. Natural posture conveying intelligence, creativity, and effortless confidence. The pose should feel spontaneous rather than staged.
+
+FACIAL EXPRESSION:
+Quiet confidence, introspective gaze, subtle mystery, calm sophistication. Eyes focused directly toward the camera with a soft yet engaging expression. Emotion should communicate intelligence, artistic sensibility, modern elegance, and understated charisma. No exaggerated smile.
+
+FASHION STYLING:
+Minimalist luxury wardrobe centered around a crisp oversized white shirt. Premium cotton fabric with visible texture and natural folds. Open collar with clean lines. Slightly oversized silhouette creating modern proportions. Sleeves casually rolled or relaxed. Styling reflects contemporary luxury, Scandinavian minimalism, and timeless fashion essentials.
+
+ACCESSORIES:
+Thin silver metal-frame eyeglasses with minimalist design. Luxury wristwatch featuring a clean dial, refined metallic case, and understated elegance. Accessories should appear functional, sophisticated, and premium
+```
+
+<!-- Case 281: Cinematic Street Photography Portrait (by @frametheory058) -->
+### Case 281: [Cinematic Street Photography Portrait](https://x.com/frametheory058/status/2064536055366480248) (by [@frametheory058](https://x.com/frametheory058))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case281/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-realistic cinematic street photography portrait of me on a busy city street. Keep my face exactly the same as in the reference photo — same facial structure, eyes, nose, lips, hairstyle, skin tone, proportions, and overall identity. Do not alter, beautify, or reinterpret my appearance in any way.
+
+I am standing confidently in the center of the frame wearing an oversized black hoodie, relaxed cargo pants, and casual streetwear. My expression is playful, slightly mischievous, and natural, as if I’m proudly showing my creative side.
+
+I’m holding a large white poster board in front of me.
+
+The poster should contain only ONE hand-drawn sketch illustration of me. No multiple portraits or variations.
+
+The sketch should be:
+
+Black-and-white pencil drawing
+
+Highly detailed
+
+Realistic facial resemblance
+
+Expressive line art
+
+Artist sketchbook style
+
+Clean white background
+
+Subtle shading
+
+Visible hand-drawn pencil strokes
+
+Confident creator energy
+
+At the bottom of the sketch, write:
+
+[Name]
+
+Around the sketch, add only a few minimal doodles:
+
+Tiny stars
+
+Small hearts
+
+Paper airplane
+
+Light sketch arrows
+
+Subtle creative marks
+
+Keep the poster simple, clean, and powerful.
+
+The mood should feel creative, inspiring, authentic, artistic, and documentary-like, as if it’s part of a creator movement campaign.
+
+Style: ultra-realistic street portrait, natural lighting, shallow depth of field, soft background blur, premium editorial photography, magazine-quality image, cinematic storytelling, Pinterest aesthetic, creator-brand campaign, emotional and relatable, professional photography, 8K masterpiece.
+
+The contrast between the real me and the hand-drawn sketch version of me should be the main visual focus, creating a strong artist-versus-art effect. The single sketch on the poster must remain the clear focal point.
+
+Aspect ratio: 4:5
+```
+
+<!-- Case 282: Winter Wolf Cinematic Portrait (by @iamaiistudio) -->
+### Case 282: [Winter Wolf Cinematic Portrait](https://x.com/iamaiistudio/status/2064409499906224232) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case282/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/1ZKQNHa8h4
+
+prompt:
+
+Cinematic winter portrait of a young pale-skinned woman with long dark snow-dusted hair, standing closely behind a majestic gray wolf. She wears a fur-lined heavy winter coat, expression intense, calm and soulful, direct eye contact with camera. The wolf is calm and watchful with thick frost-covered fur and sharp golden intelligent eyes. Both subjects centered symmetrically, ultra-sharp focus on both sets of eyes. Background: softly blurred snow-covered forest, gentle snowfall, cold mist. Lighting: soft natural overcast winter light with diffused shadows, cinematic cool tones, subtle warmth in skin and eyes. Style: fine-art wildlife and cinematic portrait photography, ultra-realistic, 8K quality detail. Mood: quiet intensity, mystery, primal bond, reverence for nature. Portrait orientation, 2:3 aspect ratio.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 283: Full Shot Man White Chair (by @JamilAI55) -->
+### Case 283: [Full Shot Man White Chair](https://x.com/JamilAI55/status/2064548739419947299) (by [@JamilAI55](https://x.com/JamilAI55))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case283/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A full shot of a man sitting on a white chair with his legs crossed, wearing a dark button-down shirt, white pants, and white slides, uploaded face as reference, with an old-fashioned film camera on a tripod to his left, a potted green plant to his right, and various design-related elements scattered around him, including a notepad listing 'Creative Cloud' applications, a Polaroid photo with the words 'Creativity is Fun,' and text snippets like 'Be Different' and 'Dare to Stand Out,' all arranged in a collage style, with a color palette of muted blues, grays, and whites, and pops of color from the plant and text, creating a visually engaging and informative composition, reminiscent of a graphic design mood board, with a slightly desaturated look and a clean, modern aesthetic.
+```
+
+<!-- Case 284: Eiffel Tower Low Angle Fashion Portrait (by @CHAseUnre) -->
+### Case 284: [Eiffel Tower Low Angle Fashion Portrait](https://x.com/CHAseUnre/status/2064514382756012487) (by [@CHAseUnre](https://x.com/CHAseUnre))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case284/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+에펠탑 중앙 하단에서 카메라를 아래로 당당하게 내려다보는 로우 앵글 포즈입니다. 상체는 프레임 우측을 향해 45도 틀어져 있고, 고개를 돌려 카메라를 내려다 보고 있습니다. 바람에 날리는 머리카락 사이로 세련되고 쿨한 표정을 짓고 있으며, 카메라를 아련하면서도 자신감 넘치는 눈빛으로 가만히 응시하고 있습니다.
+
+몸에 부드럽게 밀착되는 정갈하고 심플한 화이트 반소매 라운드넥 티셔츠를 입고 있습니다. 머리카락은 바람을 맞아 자연스럽게 볼륨감이 살아서 얼굴 주변으로 흩날리고 있습니다. 실버 금속 테에 은은한 보랏빛이 도는 반투명 렌즈의 스퀘어 선글라스를 착용했으며, 촉촉한 연분홍색 립글로스를 바른 내추럴하고 깨끗한 메이크업입니다.
+
+인물에 대한 직접 조명은 전혀 없으며 에펠탑 아래에서 은은하게 자연광이 있을 뿐입니다. 바닥에서 하늘을 수직에 가깝게 올려다보는 극단적인 로우 앵글(웜즈 아이 뷰)로 촬영되었습니다. 화면 전체를 거대하게 감싸며 가로지르는 파리 에펠탑의 정교하고 거대한 짙은 회색 철골 격자 구조물이 배경입니다.
+```
+
 
 ## 🎨 Poster & Illustration Cases
 
@@ -4705,6 +4919,653 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
 ```
 
+<!-- Case 361: Luxury Birthday Poster 3:4 (by @Taaruk_) -->
+### Case 361: [Luxury Birthday Poster 3:4](https://x.com/Taaruk_/status/2064548138422263945) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case361/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premium off white luxury paper textured wall. Large number “2” precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: soft pink and pink balloons, subtle white flowers, elegant bouquet arrangement, premium celebration styling. A happy 2 year old child with preserved reference facial features, wearing a milky white T shirt and pink denim overalls, laughing naturally. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Warm cinematic sunlight from one side, soft rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER. Clean minimalist layout, luxury magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts.
+```
+
+<!-- Case 362: Window Girl Fashion Editorial (by @iamaiistudio) -->
+### Case 362: [Window Girl Fashion Editorial](https://x.com/iamaiistudio/status/2064545132180074569) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case362/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/yMuwrbQO3u
+
+Ultra-photoreal fashion editorial. A young woman sits casually inside the open window of a soft warm yellow house, one leg extended outward and raised, the other relaxed, one arm hanging freely. She wears a white satin midi slip dress with thin straps and fluid fabric, clean white over-ear headphones, and simple white flat shoes. She holds a loose bouquet of fresh yellow flowers in one hand. Expression: calm, relaxed confidence, gaze forward or slightly to the side.
+
+Architecture: simple rectangular window, white interior walls, clean uncluttered sunlit facade. Midday direct natural sunlight, crisp shadows.
+
+Camera: 35mm lens, centered full-body framing within the window frame, moderate depth of field with sharp background. Color grade: warm yellows, clean whites, natural skin tones. Aspect ratio 4:5. No text, no watermark. Ultra-high-res, ultra-photoreal editorial render.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 363: Premium Streetwear Graphic Tee (by @j_smeaton99) -->
+### Case 363: [Premium Streetwear Graphic Tee](https://x.com/j_smeaton99/status/2064540729528267108) (by [@j_smeaton99](https://x.com/j_smeaton99))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case363/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a high-end fashion product photo of a modern oversized streetwear T-shirt. The shirt features a large, professionally designed graphic print on the front. Design style: contemporary urban streetwear, bold typography mixed with futuristic geometric elements, clean vector artwork, subtle distressed textures, premium screen-print aesthetic, balanced composition, visually striking but wearable. Color palette: black, white, silver, and electric blue accents. The design should look like it belongs in a luxury streetwear collection. Photorealistic fabric texture, realistic folds, premium cotton material, studio lighting, fashion campaign quality, ultra-detailed, sharp focus, e-commerce ready, trend-forward apparel design.
+```
+
+<!-- Case 364: Three-Frame Nightlife Collage (by @mehvishs25) -->
+### Case 364: [Three-Frame Nightlife Collage](https://x.com/mehvishs25/status/2064539698027258333) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case364/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create image Create a photorealistic three-frame vertical nightlife collage inspired by the supplied reference image. Preserve the subject's facial identity, facial structure, skin tone, hairstyle, and overall appearance while placing her in a fashionable late-evening social setting.
+
+The subject is an adult woman in her mid-to-late twenties with long, voluminous dark brown hair styled in soft natural waves, radiant skin, refined soft-glam makeup, defined eyelashes, and glossy neutral-toned lips. Her expression feels warm, confident, and effortlessly playful.
+
+Wardrobe:
+A sophisticated black evening dress with a modern fitted silhouette, paired with delicate silver jewelry including rings and a minimalist pendant necklace. Contemporary nightlife fashion styling with an elegant, upscale aesthetic.
+
+Frame 1:
+She sits comfortably at a cocktail table, leaning back with both hands resting behind her head while laughing naturally. The image should feel spontaneous, candid, and genuinely joyful, as if captured during a memorable night out.
+
+Frame 2:
+She glances to the side while casually enjoying a french fry. Relaxed posture, authentic expression, and an unposed social atmosphere that captures a fleeting real-life moment.
+
+Frame 3:
+She holds a vintage corded telephone receiver near her ear while gazing upward thoughtfully. The mood combines nostalgic early-2000s inspiration with a modern fashion-editorial feel.
+
+Location:
+A stylish contemporary lounge or cocktail bar featuring dark interiors, industrial metal accents, warm ambient lighting, drinks on tables, small plates, and subtle nightlife details. The environment should feel lively, intimate, and realistic.
+
+Photography:
+Direct on-camera flash photography with realistic exposure characteristics. Bright flash illumination on the subject, natural skin texture, crisp details, deep environmental shadows, subtle highlight bloom, and an authentic early-digital-camera aesthetic.
+
+Style Direction:
+
+Candid nightlife photograph
+```
+
+<!-- Case 365: Travel Planning Tabletop Scene (by @Naiknelofar788) -->
+### Case 365: [Travel Planning Tabletop Scene](https://x.com/Naiknelofar788/status/2064532259596816668) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case365/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A premium travel-planning tabletop scene for [LOCATION], photographed from a slightly elevated angle. A detailed map of [LOCATION] lies on a warm wooden desk under a cozy black desk lamp. Emerging from the map are handcrafted papercraft landmarks, iconic attractions, landscapes, and cultural highlights from [LOCATION], positioned in their approximate geographic locations.
+A tiny traveler character with a backpack and rolling suitcase follows a dotted red journey route across the map, creating a visual story of exploration. The traveler is mid-journey between destinations.
+A modern smartphone displays a "[LOCATION] eSIM" travel connectivity screen. Around the map are travel-planning accessories including a notebook itinerary, postcards, camera, passport, travel books, and local-themed souvenirs.
+Mixed-media diorama style, intricate papercraft architecture, layered paper terrain, miniature trees, realistic desk objects, warm cinematic lighting, shallow depth of field, highly detailed textures, editorial travel photography, Pinterest aesthetic, premium commercial advertising, ultra-realistic, 8k quality, rich storytelling, clean composition.
+Include these [LOCATION] highlights: [LANDMARK LIST].
+Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
+```
+
+<!-- Case 366: iPhone Candid Notebook Photo (by @iamaiistudio) -->
+### Case 366: [iPhone Candid Notebook Photo](https://x.com/iamaiistudio/status/2064530096720150770) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case366/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/4zY2WLrQci
+
+Candid photo of a flat open notebook covered in black ballpoint pen handwriting. Notes look personal and authentic, with slightly messy lettering, crossed-out words, and underlined section headers. Angle slightly overhead, soft natural window light, no flash. Simple desk environment, iPhone camera aesthetic.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 367: French New Wave Film Still (by @iamaiistudio) -->
+### Case 367: [French New Wave Film Still](https://x.com/iamaiistudio/status/2064515035708408119) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case367/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Black and white cinematic image in 1950s-60s French New Wave style. Two people standing close on a narrow Parisian street at dawn, not quite touching, intimacy expressed through proximity alone. She tilts slightly toward him; he gazes past her, deep in thought. Simple clothing: trench coats, knit sweaters, no excess. Natural faces, honest expressions, no glamour. Stone walls, shuttered windows, stacked cafe chairs, a bicycle leaning against the wall. Eye-level static camera, wide negative space, slightly imperfect composition. Soft diffused daylight, subtle 35mm film grain, gentle shadows. Emotion through stillness and silence, love present but unspoken. Godard and Truffaut aesthetic: restrained, observational, melancholic art-house romance.
+```
+
+<!-- Case 368: Nighttime Japanese Theater Cinematic (by @Preda2005) -->
+### Case 368: [Nighttime Japanese Theater Cinematic](https://x.com/Preda2005/status/2064507889818144850) (by [@Preda2005](https://x.com/Preda2005))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case368/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor Japanese theater performance. The camera feels like a handheld smartphone recording from the crowd, with silhouetted audience heads and raised phones in the foreground. On stage, a cute plush capybara mascot girl named Capychan stands small but heroic, with a round chubby body, huge capybara hood, pineapple crown, yellow number 10 jersey, blonde-and-green hair, heterochromia eyes, and two glowing energy swords, one green and one gold. She faces a colossal original samurai robot with black, red and gold armor, glowing red eyes, and a massive mechanical katana. The stage has a traditional Japanese village gate, bamboo forest, lanterns, taiko drums, smoke, sparks, explosions, dramatic spotlights, and a realistic live performance atmosphere. Make the image dynamic, as if captured during a fast battle scene, with motion energy, smoke trails, impact sparks, and epic scale contrast. No copyrighted characters, no logos, no subtitles. Cinematic, high detail, realistic audience-recorded viral video frame.
+```
+
+<!-- Case 369: Furniture Product Sheet Layout (by @iamaiistudio) -->
+### Case 369: [Furniture Product Sheet Layout](https://x.com/iamaiistudio/status/2064499654725902349) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case369/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/UuHTKEB9Ff
+
+Create a high-quality realistic 3D product showcase for a table, using a split-view layout (3:2 or 4:3 aspect ratio) on a neutral light gray or white background.
+
+Left side — Table Perspectives:
+- Top-down view: full tabletop shape, surface texture, and edge details
+- Side view: leg design, table height, and tabletop thickness
+- Front view: width, symmetry, and leg alignment
+Use consistent lighting with subtle shadows for realism.
+
+Right side — Material Breakdown:
+- Tabletop: solid or engineered wood, with a close-up wood texture swatch and clean sans-serif label
+- Legs: polished oak wood or metal, with a material texture swatch and consistent labeling
+- Frame: matte black steel, with a small metallic texture swatch and minimalist annotation
+
+Separate the two sections with a vertical dividing line or subtle split background. Use natural tones for materials and grayscale for backgrounds and lines. Modern readable font for labels and section titles. Output as a high-resolution image suitable for a product sheet, interior design catalog, or furniture showcase.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 370: Anime Character Concept Showcase (by @itsPixieVerse) -->
+### Case 370: [Anime Character Concept Showcase](https://x.com/itsPixieVerse/status/2064496721431024075) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case370/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
+
+[STYLE]: highly polished stylized 3D CGI anime style, modern cinematic 3D magical girl aesthetic with clean soft-shading, vibrant magical reflections, and shimmering particle effects
+
+[SUBJECT_DESCRIPTION]: A beautiful celestial magical girl with cosmic powers. She wears an elegant, asymmetric mid-length dress made of deep midnight-blue fabric that subtly mimics a night sky filled with drifting constellations. The dress is detailed with intricate gold filigree along the hem, a single flowing white sleeve, and a delicate silver corset woven with stellar patterns. Softly glowing, semi-translucent ribbons of pure light gently wrap around her arms. She has long, shimmering pastel-pink hair styled in soft waves, expressive golden-amber eyes, and a graceful crown of small star crystals. Her design is highly elegant and unique, radiating a gentle but immense stellar power without traditional sailor motifs.
+
+Create the layout in a clean 16:9 widescreen format on a neutral studio gray or warm off-white background with a minimal technical border. The design must look like a premium production visual bible, using clean typography, no clutter, no watermarks, and no logos. Apply [STYLE] only to the character and visual elements, keeping the presentation layout clean, structured, and minimal.
+
+Infer all missing details from the subject description, including name, role, brief background specs, and a cohesive color palette.
+
+Use this tri-fold layout:
+
+1. HERO SPOTLIGHT (Left 40% of the board)
+
+- Show one large, highly detailed full-body dynamic action pose of the subject.
+
+- This pose should showcase the character's primary personality, attitude, and silhouette.
+
+2. TECHNICAL TURNAROUND (Center 35% of the board)
+
+- Show exactly two clean full-body views: Front View and Back View.
+
+- The subject should be in a relaxed, neutral stance.
+
+- Place these views over very subtle vertical and horizontal 
+```
+
+<!-- Case 371: Dopamine Burst 3D Poster (by @iamaiistudio) -->
+### Case 371: [Dopamine Burst 3D Poster](https://x.com/iamaiistudio/status/2064485010653225077) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case371/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/iW2ocxdKQR
+
+prompt:
+
+Modern internet visual design excellence, Behance / Dribbble 3D illustration poster aesthetic, C4D-style soft-light rendering, high-saturation vibrant colors, dopamine color palette, abstract art direction, clean minimalist background, visually uplifting and cheerful, refined and intricate detail. Theme: Play Wildly.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 372: Scandinavian Branding Mockup (by @iamaiistudio) -->
+### Case 372: [Scandinavian Branding Mockup](https://x.com/iamaiistudio/status/2064469666521829435) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case372/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/keLYasNByE
+
+prompt:
+
+Minimal personal branding identity mockup for a female entrepreneur or creator, displayed on a soft neutral background. Includes a framed portrait with elegant typography, a circular logo with a hand-drawn line-art face illustration, and branded merchandise: white tee, tote bag, and ceramic mug with the same logo print. Grid-style social media layout showing portrait photography, behind-the-scenes content, quote tiles, and solid color brand blocks in warm beige, cream, and muted terracotta. Soft natural lighting, premium lifestyle photography, Scandinavian-inspired aesthetic, balanced editorial composition, consistent brand typography, high-end creative agency presentation.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 373: Hand-drawn Doodle Art Overlay (by @iamaiistudio) -->
+### Case 373: [Hand-drawn Doodle Art Overlay](https://x.com/iamaiistudio/status/2064454454553051298) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case373/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/jBGrThiRdq
+
+prompt:
+
+Take the uploaded photo and keep the subject completely unchanged — same face, pose, framing, and lighting, no warping or distortion. Layer expressive hand-drawn illustrations on top that playfully interact with the person or scene.
+
+Have the doodles react to what's in the frame: follow gestures, amplify movement, trace body outlines, or bring in imaginative details that feel connected to the moment. The sketches should look deliberate, like someone drew straight onto the print with spontaneous yet thoughtful pen strokes.
+
+Go for a loose, slightly rough drawing style — wobbly lines, organic curves, a sketchbook aesthetic. Add handwritten words or short captions that fit the vibe of the image: make them clever, context-specific, and genuinely playful rather than generic filler.
+
+Keep the illustrated additions from overwhelming the original photo. Aim for a balanced final composition with crisp, high-res output and a color palette that feels native to the original scene.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 374: Japanese Ad Banner 2x2 Grid (by @iamaiistudio) -->
+### Case 374: [Japanese Ad Banner 2x2 Grid](https://x.com/iamaiistudio/status/2064440310479176084) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case374/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/9AyRJEG6VB
+
+{
+  "type": "2x2 grid of Japanese-style digital advertisement banners",
+  "layout": {
+    "structure": "4 equal quadrants",
+    "quadrants": [
+      {
+        "position": "top-left",
+        "theme": "Travel",
+        "subject": "A couple holding hands walking along a white sandy beach, gazing at crystal-clear turquoise water beneath a vivid blue sky.",
+        "elements": ["red hibiscus flower in the lower-left corner"],
+        "text_labels": [
+          "This year, break free.",
+          "{argument name=\"travel destination\" default=\"Okinawa Trip\"}",
+          "3-day relaxation getaway",
+          "Flights + Hotel",
+          "Starting from ¥39,800",
+          "Views, food, and experiences — all covered!"
+        ],
+        "icons": {
+          "count": 3,
+          "descriptions": ["airplane", "hotel building", "car"]
+        }
+      },
+      {
+        "position": "top-right",
+        "theme": "Skincare",
+        "subject": "Close-up of a young woman with radiant, dewy skin, eyes gently closed, lightly pressing both hands to her cheeks.",
+        "elements": [
+          "soft pink gradient background",
+          "dynamic water splash effects",
+          "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'"
+        ],
+        "text_labels": [
+          "Bye bye pores and dullness!",
+          "Radiance overflowing",
+          "Achieve glass-like dewy skin",
+          "Next-level skincare sensation",
+          "First order 78% OFF",
+          "{argument name=\"discount price\" default=\"¥1,980\"}"
+        ],
+        "badges": {
+          "count": 3,
+          "style": "gold circular",
+          "labels": ["Pore care", "Deep hydration", "Firmness & luminosity"]
+        }
+      },
+      {
+        "position": "bottom-left",
+        "theme": "Gourmet Food",
+        "subject": "Thick medium-rare steak slices sizzling on a dark cast-iron grill plate.",
+        "elements": [
+          "crispy g
+```
+
+<!-- Case 375: Argentina Football Uniform Promo (by @AIwithAliya) -->
+### Case 375: [Argentina Football Uniform Promo](https://x.com/AIwithAliya/status/2064424561622634711) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case375/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+ARGENTINA NATIONAL TEAM
+
+"NEW UNIFORM"
+
+FORMAT
+
+Ultra-Premium Football Fashion SMM Promotional Poster
+Vertical 4:5
+Instagram Hero Creative
+Global Sportswear Advertising
+Commercial Football Graphic Design
+Agency-Level Art Direction
+Behance Front Page Quality
+8K UHD
+Hyper-Realistic
+Football × Fashion × Graphic Design Fusion
+Zero AI Slop
+Zero Generic Sports Posters
+Zero Match-Day Graphics
+Zero Editorial-Only Aesthetic
+
+CORE STRATEGY
+
+This is not a football poster.
+
+This is a national identity statement disguised as a uniform campaign.
+
+The design should feel like Argentina's biggest football billboard,
+a luxury sportswear campaign,
+and a World Cup legacy poster
+merged into one visual.
+
+The graphic design is equally important as the athlete.
+
+Typography is not decoration.
+
+Typography is architecture.
+
+CAMPAIGN IDEA
+
+"NEW UNIFORM"
+
+Not just a jersey.
+
+A symbol of legacy.
+
+A symbol of champions.
+
+A symbol worn by those who carry history forward.
+
+The uniform isn't being sold.
+
+The identity is.
+
+MASTER VISUAL
+
+Massive oversized ARGENTINA typography dominates the entire composition.
+
+The word:
+
+ARGENTINA
+
+occupies nearly 75% of the canvas.
+
+Typography is integrated into the design.
+
+Letters extend beyond frame edges.
+
+Some letters cropped.
+
+Some hidden behind the player.
+
+Some functioning as compositional structures.
+
+The typography should feel monumental.
+
+The official federation crest appears subtly integrated into the layout.
+
+HERO SUBJECT
+
+Elite female footballer.
+
+Natural beauty.
+
+Confident expression.
+
+Minimal makeup.
+
+Champion mentality.
+
+No smiling.
+
+No dramatic celebration.
+
+Relaxed confidence.
+
+Wardrobe:
+
+Argentina 2026 home jersey.
+
+Sky-blue and white stripes.
+
+Matching shorts.
+
+Premium football socks.
+
+Modern football styling.
+
+Clean elite-athlete aesthetic.
+
+POSE
+
+Player stepping through the giant typography.
+
+One foot slightly forward.
+
+Direct eye contact.
+
+Hands relaxed.
+
+Body partially intersecting typography.
+
+The feeling:
+
+She carries the weight of champio
+```
+
+<!-- Case 376: Food Ad Layered Dessert (by @iamaiistudio) -->
+### Case 376: [Food Ad Layered Dessert](https://x.com/iamaiistudio/status/2064424485328204244) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case376/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+://t.co/C2JI1bwCCZ
+
+prompt:
+
+A partially bitten realistic classic [brand] product resting on a plate, exposing layered dessert fills inside, cake crumbs scattered around, a used fork and knife lying nearby, against a softly blurred high-end restaurant background, a small white brand logo positioned at the top of the image with a fitting brand slogan in tiny text just beneath it.
+
+#AIart #GPTImage2
+```
+
+<!-- Case 377: Claymation Teen Girl with Headphones (by @ZephyraLeigh) -->
+### Case 377: [Claymation Teen Girl with Headphones](https://x.com/ZephyraLeigh/status/2064422178683228483) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case377/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+[SUBJECT]: A bold claymation teenage girl with clay space buns and a vinyl clay jacket, wearing oversized Sony WH-1000XM5 headphones in clay form, a tiny baby wolf pup made of grey clay howling beside her clay record player
+
+[COLORS]: Sony black, brushed silver clay, neon electric blue, warm white
+
+[KEY PROP]: Oversized clay Sony WH-1000XM5 headphones with NC button glowing blue, a clay vinyl record spinning on a miniature clay turntable with clay sound waves rising from it
+
+[BACKGROUND]: Claymation music bedroom with clay vinyl records covering every wall, a clay neon sign reading PLAY LOUD, LED strips baked into clay shelves
+
+[MOOD]: Bold, rebellious and music-obsessed — Sony claymation teen campaign editorial, bedroom DJ aesthetic
+
+[MAGAZINE NAME]: DECIBEL TEEN
+
+[HEADLINE]: "Silence Everything Else"
+
+[TAGLINE]: The Headphones That Hear Only What Matters — The Sound Issue
+
+[BRAND NAME]: SONY — WH-1000XM5 Noise Cancelling Headphones
+
+[STYLE NOTES]: Clay headphone ear cups with embossed Sony logo, sound waves as curling clay ribbons, neon sign as glowing colored clay tubing, Aardman Studios meets streetwear aesthetic
+```
+
+<!-- Case 378: Greek Mythology Olympian Family Tree (by @92digitalartArt) -->
+### Case 378: [Greek Mythology Olympian Family Tree](https://x.com/92digitalartArt/status/2064420821922152795) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case378/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+An Art Nouveau style historical infographic poster in 16:9 horizontal format about Greek mythology, featuring an elegant flowing composition inspired by classical decorative poster design, with ornate floral borders, curling vines, golden laurel motifs, and graceful asymmetrical linework; the central artwork should depict the Olympian family tree as a beautiful mythic tableau with Zeus, Hera, Athena, Apollo, Artemis, Poseidon, and Aphrodite arranged in a ceremonial vertical hierarchy around Mount Olympus, each god or goddess framed by stylized Art Nouveau halos, flowing hair, marble columns, peacocks, olive branches, stars, waves, and moon crescents, all drawn with elongated elegant contours and rich decorative detail; use a palette of deep teal, antique gold, cream, and muted rose, with subtle gradients only in the illustrated figures and background sky; place the title at the top in large ornamental serif lettering reading GREEK MYTHOLOGY, with the subtitle THE OLYMPIAN FAMILY TREE beneath it in smaller elegant text; organize the facts into decorative side panels with graceful curved frames and thin gold rules, including sections labeled ORIGINS, GODS OF OLYMPUS, SYMBOLS, POWERS, HEROES, and LEGACY, plus a small DID YOU KNOW? box near the lower corner with five original myth facts; the entire poster should feel luxurious, classical, poetic, and richly decorative, with no modern UI, no copyrighted artwork, and a true Art Nouveau atmosphere, 16:9 horizontal ratio
+```
+
+<!-- Case 379: Ultra-realistic Trophy Sports Photography (by @Goodmanprotocol) -->
+### Case 379: [Ultra-realistic Trophy Sports Photography](https://x.com/Goodmanprotocol/status/2064399631187059188) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case379/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic sports photography, documentary realism, premium commercial campaign style, immersive 9:16 vertical composition.
+
+The camera is positioned deep inside an opened luxury gift box, creating a dramatic first-person perspective from the hidden treasure itself. A magnificent golden FIFA World Cup trophy rests on elegant dark velvet fabric in the lower foreground, with realistic metallic reflections and authentic textures.
+
+Above the opened box stands [PLAYER NAME], leaning forward and looking directly into the box with an expression of determination, ambition, and hunger for glory. He reaches one hand naturally toward the trophy, symbolizing his dream of winning the FIFA World Cup 2026.
+
+STRICT IDENTITY PRESERVATION OF [PLAYER NAME]. The player must be instantly recognizable as the real [PLAYER NAME], with authentic facial structure, eye shape, nose, lips, jawline, hairstyle, beard style, skin texture, and expression. Preserve his real-world appearance with extreme accuracy. No generic AI face.
+
+Authentic human anatomy, realistic proportions, detailed skin pores, realistic eyes, natural hair strands, genuine facial expression, lifelike appearance, true-to-life colors.
+
+Official national team jersey with realistic fabric folds, stitching, texture, sweat details, and accurate colors.
+
+The official FIFA World Cup 2026 logo is elegantly integrated into the composition with realistic physical appearance. The overall scene incorporates the authentic FIFA World Cup 2026 visual identity and official tournament color palette, creating a premium championship atmosphere.
+
+Warm stadium lights in the distance, subtle crowd bokeh, realistic depth of field, natural shadows, cinematic composition, premium sports advertising photography.
+
+Captured with a Canon EOS R3 and RF 70-200mm f/2.8L lens, Getty Images realism, Reuters sports photography quality, authentic football photography, shallow depth of field, realistic lighting, true-to-life materials.
+
+Luxury black gift box
+```
+
+<!-- Case 380: Celestial Fantasy Oracle Storyboard (by @itsPixieVerse) -->
+### Case 380: [Celestial Fantasy Oracle Storyboard](https://x.com/itsPixieVerse/status/2064396369348239452) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case380/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a premium cinematic 12-panel storyboard sheet for a celestial fantasy oracle reveal sequence featuring Astrielle, an ethereal cosmic sorceress who manipulates stars, destiny, and astral energy.
+
+The storyboard should feel like a high-budget fantasy anime film opening mixed with elegant cosmic magic cinematography. The sequence focuses on graceful character reveal, divine cosmic powers, elegant magical movements, reality-bending abilities, and a breathtaking final goddess-like ascension.
+
+Astrielle — celestial oracle with long flowing pastel pink hair, glowing amber eyes, elegant navy-and-gold cosmic dress decorated with star constellations, translucent layered fabrics, floating celestial rings, orbiting star particles, divine cosmic aura, elegant fantasy goddess aesthetic.
+
+Professional production-ready storyboard sheet featuring:
+
+12 cinematic panels
+
+shot numbers
+
+timestamps
+
+camera movement arrows
+
+focal length notes
+
+VFX annotations
+
+clean editorial layout
+
+luxury celestial fantasy presentation
+
+cinematic framing guides
+
+elegant production aesthetics
+
+Extreme wide shot of gigantic galaxy sky with floating celestial ruins drifting through clouds.
+
+Low-angle reveal of Astrielle descending slowly while surrounded by orbiting stars and cosmic ribbons.
+
+Close-up cinematic shot of her glowing amber eyes reflecting constellations.
+
+Macro close-up of cosmic energy flowing through gold star ornaments on her dress.
+
+Wide cinematic shot of floating celestial rings orbiting around Astrielle’s body.
+
+Medium shot as Astrielle raises one hand and creates miniature galaxies in midair.
+
+Overhead shot of glowing constellation sigils forming beneath her feet.
+
+Dynamic cinematic shot of astral energy ribbons spiraling violently around environment.
+
+Heroic levitation shot as giant cosmic sphere manifests behind her like a miniature universe.
+
+Close emotional shot of Astrielle calmly controlling floating stars with elegant hand gestures.
+
+Epic frontal cinematic shot of massive
+```
+
+<!-- Case 381: 3D Product Mockup Smartphone (by @Samann_ai) -->
+### Case 381: [3D Product Mockup Smartphone](https://x.com/Samann_ai/status/2064420488445567481) (by [@Samann_ai](https://x.com/Samann_ai))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case381/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+A highly realistic, premium 3D product mockup for a [INSERT BUSINESS TYPE HERE, e.g., modern clothing brand]. A sleek, modern smartphone is elegantly levitating at a dynamic angle in mid-air. Emerging seamlessly from the phone's screen is a continuous, wavy, physical ribbon of printed photos that elegantly flows and wraps around the device in a surreal, gravity-defying way. The photos on the flowing ribbon display stunning, high-quality images of [INSERT PRODUCT/SERVICE IMAGES HERE]. The background is a minimalist, warm beige and soft cream environment with a subtle, textured stone floor. The lighting consists of soft, diffused natural sunlight casting an elegant, diagonal window shadow on the back wall, adding depth. Cinematic lighting, shallow depth of field, ultra-photorealistic, 8k resolution, highly detailed, trendy minimal aesthetic, perfect for an engaging and viral social media post, featuring clean negative space at the top for typography.
+```
+
+
 ## 🧍 Character Design Cases
 
 > **4 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
@@ -6797,6 +7658,78 @@ Footer:
 •LIGHT & STYLE: bright warm Spanish morning sunshine throughout, golden fried dough, sparkling white cinnamon sugar, rich dark chocolate, vivid red apron, cobblestone street, Pixar vivid bright colors — nothing dark, nothing moody
 •VENDOR NOTES: one vendor, one cart, one perfect churro. Golden, crispy, and impossible to walk past.”
 ```
+
+<!-- Case 102: Food Anime Storyboard Generator (by @tanabe_fragm) -->
+### Case 102: [Food Anime Storyboard Generator](https://x.com/tanabe_fragm/status/2064510342328353143) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case102/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a professional anime production storyboard sheet for a **15-second cooking animation featuring authentic Edo-style Sushi (江戸前寿司 / 握り寿司)**.
+
+The cooking process should accurately reflect professional Tokyo high-end sushi restaurant techniques while delivering elegant anime-style food presentation and a **calm early summer atmosphere in a refined Tokyo sushi counter setting (初夏・静謐な高級寿司店の空気感)**.
+
+The storyboard should depict the complete preparation process of **maguro (tuna), toro (fatty tuna), and unagi (eel)** sushi while maintaining strict visual continuity across all panels.
+
+---
+
+# Workflow Adaptation Rule
+
+Before creating the storyboard:
+
+1. Follow authentic Edo-mae sushi counter workflow
+2. Separate fish preparation, rice shaping, and nigiri assembly stages
+3. Emphasize craftsmanship and hand technique
+4. Highlight maguro, toro, and unagi equally
+5. Build toward final plated sushi as the hero composition
+6. Maintain strict continuity of counter, lighting, and tools
+
+---
+
+# Realism and Culinary Accuracy Rules
+
+Prioritize authentic sushi craftsmanship:
+
+* Precise slicing of maguro and toro
+* Hand-formed sushi rice (shari)
+* Clean, minimal unagi handling
+* Realistic weight, pressure, and texture of food
+
+Avoid all exaggerated or stylized effects.
+
+---
+
+## Ingredient Preparation Rules
+
+* Maguro: clean block slicing into uniform nigiri portions
+* Toro: delicate slicing emphasizing marbling texture
+* Unagi: already grilled kabayaki, cut into sushi topping size
+
+---
+
+## Unagi Correct Technique Rule (FINAL)
+
+For unagi nigiri:
+
+* Grilled eel (kabayaki) is placed on top of hand-formed sushi rice
+* After the nigiri is fully formed, the chef applies tare sauce **using a brush directly on the surface of the eel**
+* Brush movement is slow, precise, and minimal
+* No pre-dipping in sauce
+* No cutting during final assembly
+* Focus on glossy finish and craftsmanship, not drama
+
+---
+
+## Liquid Realism Rules
+
+* Sauce is applied as a thin controlled glaze via brush
+* No drip
+```
+
 
 ## 🤝 How to Contribute
 
