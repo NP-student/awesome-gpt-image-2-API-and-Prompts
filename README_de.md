@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![881 Curated Prompts](https://img.shields.io/badge/Prompts-881_Curated_Cases-111111)](README.md)
+[![889 Curated Prompts](https://img.shields.io/badge/Prompts-889_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -44,7 +44,7 @@
 
 Willkommen im Repository **Awesome GPT Image 2 API and Prompts**! 🤗
 
-Eine kuratierte Sammlung von **881+ hochwertigen GPT-Image-2 Prompts**, API-Nutzungsmustern und wiederverwendbaren visuellen Workflows für KI-Bildgenerierung.
+Eine kuratierte Sammlung von **889+ hochwertigen GPT-Image-2 Prompts**, API-Nutzungsmustern und wiederverwendbaren visuellen Workflows für KI-Bildgenerierung.
 
 Wenn du nach GPT-Image-2 Prompt-Beispielen, Best Practices für Text-zu-Bild, Bildbearbeitungstechniken oder direkt nutzbaren Prompt-Vorlagen suchst, findest du hier eine zentrale Referenz.
 
@@ -80,6 +80,8 @@ Kompatibel mit OpenAIs Standard-API-Format (`/v1/images/generations`)
 > Mehr zur API-Nutzung findest du im Abschnitt GPT Image 2 API verwenden.
 
 ## 📰 Neuigkeiten
+
+**18. Juni 2026:** 8 neue GPT-Image-2-Prompt-Cases hinzugefuegt (2 Portraits, 2 Poster, 2 Werbe-Creatives, 1 E-Commerce, 1 UI) aus dem Image-Prompt-Update-Loop nach semantischer Pruefung und Medienvalidierung
 
 **15. Juni 2026:** 9 neue GPT-Image-2-Prompt-Cases hinzugefügt (4 Werbekreation, 3 Poster, 1 Portrait, 1 UI) aus dem Image-Prompt-Update-Loop nach semantischer Prüfung und Medienvalidierung
 
@@ -158,7 +160,7 @@ curl --request POST \
 
 ## 🛒 E-commerce Cases
 
-> **12 curated cases**
+> **13 curated cases**
 
 <!-- Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X) -->
 ### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
@@ -396,9 +398,25 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 ```
 
 
+<!-- Case 173: Floral Serum Product Shot (by @iamaiistudio) -->
+### Case 173: [Produktaufnahme mit floralem Serum](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produktaufnahme mit floralem Serum"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produktaufnahme mit floralem Serum"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produktaufnahme mit floralem Serum"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produktaufnahme mit floralem Serum"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
+
+full prompt:
+```
+
 ## 📣 Ad Creative Cases
 
-> **22 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
+> **24 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -920,9 +938,36 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
 ```
 
+<!-- Case 195: Coconut Paradise Skincare Ad (by @Strength04_X) -->
+### Case 195: [Hautpflege-Anzeige "Coconut Paradise"](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hautpflege-Anzeige Coconut Paradise"></a> |
+
+**Prompt:**
+
+```
+Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
+```
+
+<!-- Case 196: Reverse-Assembly Product VFX (by @iamaiistudio) -->
+### Case 196: [Produkt-VFX mit Rueckwaertsmontage](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produkt-VFX mit Rueckwaertsmontage"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produkt-VFX mit Rueckwaertsmontage"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produkt-VFX mit Rueckwaertsmontage"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case196/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Produkt-VFX mit Rueckwaertsmontage"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```
+
 ## 🍌 Portrait & Photography Cases
 
-> **124 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
+> **126 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
 
 <!-- Case 124: Convenience Store Neon Portrait (by @BubbleBrain) -->
 ### Case 124: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
@@ -3173,9 +3218,39 @@ Camera: macro photography, close-up shot. Soft studio lighting with warm highlig
 35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
 ```
 
+<!-- Case 306: Park Bench Iced Coffee Portrait (by @saniaspeaks_) -->
+### Case 306: [Portraet mit Eiskaffee auf der Parkbank](https://x.com/saniaspeaks_/status/2067451160991084677) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case306/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Portraet mit Eiskaffee auf der Parkbank"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case306/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Portraet mit Eiskaffee auf der Parkbank"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Beautiful young Japanese girl with long straight dark brown hair and soft full bangs, fair skin, bright natural smile, sitting casually on a wooden park bench while holding an iced coffee cup. Wearing a light beige windbreaker jacket and a white pleated mini skirt, relaxed posture, one hand resting on the bench. Surrounded by a lush green park with tall trees, fresh grass, and a bright blue sky with soft clouds. Captured with a smartphone camera in portrait mode, casual everyday snapshot, natural daylight, handheld iPhone photo, slightly imperfect framing, realistic skin texture, natural colors, soft HDR phone processing, candid social-media aesthetic, no professional modeling, no studio lighting, no cinematic color grading, authentic mobile photography, ordinary park outing vibe, spontaneous moment, realistic shadows, subtle lens softness, photorealistic, high-quality phone camera image.
+```
+
+<!-- Case 307: Curtain Bang Close-Up Portrait (by @iamsofiaijaz) -->
+### Case 307: [Nahportraet mit Curtain Bangs](https://x.com/iamsofiaijaz/status/2067450336378544407) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Nahportraet mit Curtain Bangs"></a> |
+
+**Prompt:**
+
+```
+A photorealistic close-up portrait of a young girl filling almost the entire frame. Her head is slightly tilted to the side, with her cheek resting against her shoulder and partially hidden inside the long cream-colored sleeve of a hoodie. Long, straight hair with curtain bangs falls freely along the left side of her face, covering one eye.￼ On the visible side of her face, she wears soft makeup: laminated brows, a sharp elongated black winged eyeliner that extends the shape of the eye, matte dusty-pink lips, and a calm, slightly pouting expression. She looks directly into the camera, with visible eyelashes.
+
+Layer crisp Japanese typography integrated like a professional event ad with exactly 8 text groups: (1) top-left heading 「始まるのは、キミと創る 音楽の物語。」 with subcopy 「AIを使って、みんなで音楽をつくる特別な3日間。」; (2) top-right glowing marquee 「GW連休!」 and neon box 「みんなで最高の音楽をつくろう!」; (3) center title with English 「AI MUSIC BOOTCAMP 2」 above large 「AI音楽 ブートキャンプ 2」; (4) massive gold metallic text across the middle 「開催決定!」; (5) date bar 「開催期間」 with 「5.2 SAT 土」 and 「5.4 MON 月」; (6) hashtag callout 「参加はカンタン!!  をつけて投稿するだけ!」; (7) encouragement line 「初心者も大歓迎! みんなで最高の音楽体験を!」; (8) three bottom feature captions with icons: 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, 「想いをカタチに 自分だけの1曲を」.
+
+Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
+```
+
 ## 🎨 Poster & Illustration Cases
 
-> **143 curated cases** — [Explore all Poster Prompts →](cases/poster.md)
+> **145 curated cases** — [Explore all Poster Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -7196,6 +7271,56 @@ Layer crisp Japanese typography integrated like a professional event ad with exa
 Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
 ```
 
+<!-- Case 407: Stay Focused Editorial Poster (by @iamaiistudio) -->
+### Case 407: [Redaktionelles Poster "Stay Focused"](https://x.com/iamaiistudio/status/2067444516605620410) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case407/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Redaktionelles Poster Stay Focused"></a> |
+
+**Prompt:**
+
+```
+Award-worthy graphic design poster in neo-editorial / contemporary editorial style, D&AD / Awwwards / Behance quality.
+
+Theme: Stay Focused.
+
+Create a powerful central visual metaphor for this theme — transform the concept into a sculptural, iconic, installation-like object that is cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, with clear conceptual weight rather than decoration.
+
+Clean, minimal light-gray background with generous whitespace.
+
+High-contrast modern editorial typography: oversized bold black English headline at top, secondary subtitle, annotation text, exhibition-style hierarchy.
+
+Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
+
+Centered or near-centered composition with strong vertical tension.
+
+Materials and rendering: premium product-quality render, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
+
+Color: black, white, and gray dominant with a single striking accent color and minimal secondary accents — restrained, high-end, contemporary.
+
+Lighting: soft studio lighting, subtle shadows, ultra-clean render, highly polished but non-glossy, razor-sharp details.
+
+Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
+
+Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
+```
+
+<!-- Case 408: Chowmein Recipe Infographic (by @iamaiistudio) -->
+### Case 408: [Chowmein-Rezept-Infografik](https://x.com/iamaiistudio/status/2067429181726904350) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case408/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chowmein-Rezept-Infografik"></a> |
+
+**Prompt:**
+
+```
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
 ## 🧍 Character Design Cases
 
 > **12 kuratierte Fälle** — [Alle Character-Design-Prompts ansehen →](cases/character.md)
@@ -7678,7 +7803,7 @@ Catchphrase: "(line here)"
 
 ## 📱 UI & Social Media Mockup Cases
 
-> **38 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
+> **39 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
 
 <!-- Case 130: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 130: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -8916,6 +9041,19 @@ Bottom section — technical specification panel laid out in a clean modular gri
 Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
 
 Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
+<!-- Case 187: The King Still Breathes Masthead (by @NeuralAIInsight) -->
+### Case 187: [Titelkopf "The King Still Breathes"](https://x.com/NeuralAIInsight/status/2067291988953567706) (by [@NeuralAIInsight](https://x.com/NeuralAIInsight))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case187/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Titelkopf The King Still Breathes"></a> |
+
+**Prompt:**
+
+```
+Create a 16:9 image.
 ```
 
 ## 🧪 Comparison & Community Examples
