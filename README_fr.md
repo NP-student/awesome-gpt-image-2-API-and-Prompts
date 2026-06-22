@@ -106,7 +106,7 @@ La compatibilité avec le format d'API OpenAI standard (`/v1/images/generations`
 
 ## 📰 Actualités
 
-**22 juin 2026 :** Ajout de 8 nouveaux cas de prompts GPT-Image-2 (5 affiches, 1 portrait, 1 personnage, 1 UI) issus de la boucle quotidienne de mise à jour des prompts image après revue sémantique et validation des médias
+**22 juin 2026 :** Ajout de 8 nouveaux cas de prompts GPT-Image-2 (5 affiches, 1 portrait, 1 personnage, 1 UI) issus de la mise à jour quotidienne des prompts d'image après revue sémantique et validation des médias
 
 **20 juin 2026 :** Ajout de 9 nouveaux cas de prompts GPT-Image-2 (2 e-commerce, 1 création publicitaire, 3 affiches, 1 personnage, 2 UI) issus de la boucle quotidienne de mise à jour des prompts image après revue sémantique et validation des médias
 

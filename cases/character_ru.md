@@ -678,7 +678,7 @@ Catchphrase: "(line here)"
 | :----: |
 | <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/character_case27/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Medieval Alchemist Character Sheet"></a> |
 
-**Prompt:**
+**Промпт:**
 
 ```
 Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:

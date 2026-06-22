@@ -81,7 +81,7 @@ Kompatibel mit OpenAIs Standard-API-Format (`/v1/images/generations`)
 
 ## 📰 Neuigkeiten
 
-**22. Juni 2026:** 8 neue GPT-Image-2-Prompt-Cases hinzugefügt (5 Poster, 1 Portrait, 1 Charakter, 1 UI) aus dem täglichen Image-Prompt-Update-Loop nach semantischer Prüfung und Medienvalidierung
+**22. Juni 2026:** 8 neue GPT-Image-2-Prompt-Cases hinzugefügt (5 Poster, 1 Porträt, 1 Charakter, 1 UI) nach semantischer Prüfung und Medienvalidierung aus der täglichen Aktualisierungsrunde für Bild-Prompts
 
 **20. Juni 2026:** 9 neue GPT-Image-2-Prompt-Cases hinzugefügt (2 E-Commerce, 1 Werbe-Creative, 3 Poster, 1 Charakter, 2 UI) aus dem täglichen Image-Prompt-Update-Loop nach semantischer Prüfung und Medienvalidierung
 
