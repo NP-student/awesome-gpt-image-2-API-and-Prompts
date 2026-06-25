@@ -44,7 +44,7 @@
 
 **Awesome GPT Image 2 API and Prompts** deposuna hoş geldiniz! 🤗
 
-AI görsel üretimi için **929+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
+AI görsel üretimi için **946+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
 
 GPT-Image-2 prompt örnekleri, text-to-image en iyi pratikleri, görsel düzenleme teknikleri veya kullanıma hazır prompt şablonları arıyorsanız burası tek durak referansınız olabilir.
 
@@ -81,6 +81,9 @@ OpenAI'ın standart API formatıyla çalışır (`/v1/images/generations`)
 
 ## 📰 Haberler
 
+
+**25 Haziran 2026:** Günlük image-prompt güncelleme döngüsünden 10 yeni GPT-Image-2 prompt vakası eklendi (4 poster, 2 portre, 2 UI, 2 karşılaştırma); anlamsal inceleme ve medya doğrulaması tamamlandı
+
 **23 Haziran 2026:** Günlük image-prompt güncelleme döngüsünden 10 yeni GPT-Image-2 prompt vakası eklendi (3 reklam kreatifi, 4 UI, 1 poster, 1 karşılaştırma, 1 portre); anlamsal inceleme ve medya doğrulaması tamamlandı
 
 **22 Haziran 2026:** Semantik inceleme ve medya doğrulamasının ardından günlük görsel prompt güncelleme döngüsünden 8 yeni GPT-Image-2 prompt vakası eklendi (5 poster, 1 portre, 1 karakter, 1 UI)
@@ -106,7 +109,6 @@ OpenAI'ın standart API formatıyla çalışır (`/v1/images/generations`)
 **27 Mayıs 2026:** Günlük kürasyon grubundan 6 yeni GPT-Image-2 prompt vakası eklendi (1 portre, 3 poster, 1 UI, 1 karşılaştırma), inceleme ve medya doğrulamasının ardından
 
 **19 Mayıs 2026:** Günlük kürasyon grubundan 23 yeni GPT-Image-2 prompt vakası eklendi (13 portre, 8 poster, 2 UI)
-
 
 
 - **12 Mayıs 2026:** Günlük kürasyon grubundan 12 yeni GPT-Image-2 prompt vakası eklendi (2 portre, 9 poster, 1 UI)
@@ -3771,6 +3773,55 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
 ```
 
+
+<!-- Case 318: Fujifilm tarzı çift portresi (by @iamaiistudio) -->
+### Case 318: [Fujifilm tarzı çift portresi](https://x.com/iamaiistudio/status/2069961089719353505) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case318/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fujifilm tarzı çift portresi"></a> |
+
+**İstem:**
+
+```
+9:16 vertical portrait of a young Japanese couple captured in Fujifilm analog film style
+
+Film aesthetic: Fujifilm Pro 400H / Superia emulation, muted pastel palette, faint green-magenta color cast, low contrast, soft highlight falloff, fine film grain, gentle halation around light sources
+
+Lighting: natural window light, diffused and airy, soft shadow transitions, bright but gentle indoor daylight
+
+Subjects: two young Japanese people, minimal natural makeup, realistic skin with subtle texture and natural imperfections
+
+Female: oversized button-up shirt, loose shorts, casual relaxed styling
+Male: simple light t-shirt or shirt, clean understated look
+Both: natural, slightly tousled hair
+
+Pose: intimate closeness, sitting or standing side by side; she leans gently toward him, one hand on his shoulder or chest; he tilts in, faces nearly touching, the moment just before a kiss
+
+Expression: soft natural smiles or tender gaze toward each other, genuine emotional warmth
+
+Camera: waist-up close framing, eye-level angle, slight handheld quality, intimate feel
+
+Setting: minimal indoor space near a window, soft curtains, clean neutral background
+
+Mood: warm, romantic, quiet everyday intimacy
+
+Quality: ultra-realistic, analog film character, gentle grain, slight softness, natural imperfections
+```
+
+<!-- Case 319: Fenerli gezgin stüdyo portresi (by @iamaiistudio) -->
+### Case 319: [Fenerli gezgin stüdyo portresi](https://x.com/iamaiistudio/status/2069812774277087740) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case319/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fenerli gezgin stüdyo portresi"></a> |
+
+**İstem:**
+
+```
+3D render, stylized full-body side-view portrait of an elderly male hiker with a long white beard, walking right. Solid seamless deep-teal studio background with soft floor reflections. He wears a brown wide-brim felt hat, a gray-blue plaid shirt, cuffed brown corduroy trousers, and scuffed dark work boots. Large canvas-and-wicker backpack with leather straps on his back. Right hand holds a lit vintage hurricane lantern (brass frame, glass globe) casting a warm amber glow. Left hand grips a plain wooden walking stick. Textured matte finish, soft diffused studio lighting, vertical composition with generous negative space above.
+```
+
 ## 🎨 Poster ve İllüstrasyon Vakaları
 
 > **157 özenle seçilmiş vaka** — [Tüm Poster Promptlarını Keşfet →](cases/poster.md)
@@ -7386,7 +7437,6 @@ Starting From $89
 Bottom Center
 
 
-
 Vertical Edge Text
 
 SOUTH AFRICA 2026
@@ -8197,6 +8247,64 @@ SCENE:
 [INSERT YOUR SCENE DESCRIPTION HERE]
 
 The final image should feel like a premium Japanese lifestyle illustration found in an art book, café magazine, design journal, or independent sketchbook collection.
+```
+
+
+<!-- Case 422: Guangzhou ipek kurdele afişi (by @iamaiistudio) -->
+### Case 422: [Guangzhou ipek kurdele afişi](https://x.com/iamaiistudio/status/2069840084673945968) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case422/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Guangzhou ipek kurdele afişi"></a> |
+
+**İstem:**
+
+```
+Spring Festival 2026 Guangzhou city promo poster, vertical 9:16, festive yet elegant. Double exposure with S-curve flowing composition on a pure white textured background. Bottom-right corner: a miniature figure in traditional Chinese attire swings a long red silk ribbon that morphs into mountain ridges and river currents, revealing a layered Guangzhou panorama inside, including Canton Tower, Zhujiang New Town skyline, Pearl River with cruise ships, ancient architecture, and Baiyun Mountain. Bottom-left typography: "SPRING 2026" horizontal with a vertical line of Chinese characters reading "Millennial Trade City, Charming Guangzhou."
+```
+
+<!-- Case 423: Ronaldo topografik afişi (by @vireonixx) -->
+### Case 423: [Ronaldo topografik afişi](https://x.com/vireonixx/status/2069793294641778794) (by [@vireonixx](https://x.com/vireonixx))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case423/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ronaldo topografik afişi"></a> |
+
+**İstem:**
+
+```
+Create an extraordinary collector-edition Cristiano Ronaldo poster inspired by contemporary data visualization, cartographic design, and editorial publishing. The composition should capture Manchester United-era Ronaldo during a dynamic turning movement, as if caught between acceleration and decision. His expression should communicate youthful confidence and relentless ambition.
+
+The portrait should be integrated into a visual world constructed from flowing topographic contours, movement trajectories, directional systems, and abstract maps representing a lifetime of progress. The lines should feel elegant and intelligent rather than technical. Large-scale information structures should guide the viewer's eye through the composition while reinforcing the narrative of movement and evolution.
+
+The palette combines arctic blue, coral red, soft ivory, and charcoal accents. Sophisticated typography, layered publishing systems, and contemporary information design should create visual depth throughout the artwork. The final image should resemble an award-winning editorial feature documenting one of the most remarkable journeys in modern sport.
+```
+
+<!-- Case 424: Ufa seyahat sticker afişi (by @Sairah_0) -->
+### Case 424: [Ufa seyahat sticker afişi](https://x.com/Sairah_0/status/2069779118535930286) (by [@Sairah_0](https://x.com/Sairah_0))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case424/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ufa seyahat sticker afişi"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case424/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ufa seyahat sticker afişi"></a></td></tr>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case424/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ufa seyahat sticker afişi"></a></td></tr>
+</table>
+
+**İstem:**
+
+```
+Create an airy city scene with large typography-safe negative space in the upper-left. Add [УФА] and one short elegant English caption matching the city mood. Automatically adapt the background to the city: one iconic primary landmark, local architecture, café culture, transport sign, street lamp, flowers, trees, small decorative details, and calm daily-life moments. Use 3–6 people only, naturally interacting with the city: talking at a café, walking, jogging, sketching, or taking photos. Avoid crowds and avoid a single hero character. Style: Japanese stationery aesthetic, luxury sticker illustration, premium commercial flat-vector poster, clean thin outlines, consistent line weight, flat colors only, no shading, no gradients, no texture. Palette: blush pink, dusty rose, sage green, warm cream, soft beige, muted gray-green. Mood: minimal, elegant, calm, refined, high-end travel postcard and lifestyle branding. No realism, no watercolor, no painterly effects, no photorealism, no dense background. Установить соотношение сторон 3:4
+```
+
+<!-- Case 425: Infinite Love konser afişi (by @iamaiistudio) -->
+### Case 425: [Infinite Love konser afişi](https://x.com/iamaiistudio/status/2069749509392052645) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case425/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Infinite Love konser afişi"></a> |
+
+**İstem:**
+
+```
+Swiss International design style, minimalist flat vector poster, vertical 9:16 format, diagonal-split layout. Top-left: Traditional Chinese headline in a serif typeface paired with flowing connected-script serif English. Bottom-right: key symbolic illustration — flat vector artwork with vivid fluorescent gradients, subtle grain texture, scattered pixel-art icons, cultural festival poster aesthetic, museum-quality graphic design. Theme: Infinite Love Marathon Concerts (floral motif). 4K.
 ```
 
 ## 🧍 Karakter Tasarımı Vakaları
@@ -10417,6 +10525,52 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
   }
 }
 ```
+
+<!-- Case 195: Flash Chat uygulama ikonu (by @iamaiistudio) -->
+### Case 195: [Flash Chat uygulama ikonu](https://x.com/iamaiistudio/status/2069900481770737707) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flash Chat uygulama ikonu"></a> |
+
+**İstem:**
+
+```
+Design a macOS App Store icon for an app called 'Flash Chat'. Single squircle icon with smooth, continuously rounded corners, centered on a white canvas with padding, filling roughly 80% of the canvas. Modern light skeuomorphic style, macOS App Store quality. One icon only.
+```
+
+<!-- Case 196: Dokuz panelli ürün kampanyası (by @iamaiistudio) -->
+### Case 196: [Dokuz panelli ürün kampanyası](https://x.com/iamaiistudio/status/2069628865044254934) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case196/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dokuz panelli ürün kampanyası"></a> |
+
+**İstem:**
+
+```
+Generate a 3×3 image grid (3:4 aspect ratio) for a luxury commercial campaign centered on the uploaded product.
+
+Each of the nine frames should deliver a unique visual concept while keeping the product visually identical throughout.
+
+The nine concepts:
+1. Hero still life with a bold, iconic arrangement
+2. Extreme macro revealing surface texture and material detail
+3. Liquid or particle dynamics wrapping around the product
+4. Minimalist sculptural staging with abstract geometry
+5. Floating elements that convey lightness and forward-thinking design
+6. Close-up sensory shot focused on tactile realism
+7. Color-concept scene drawn from the product's own palette
+8. Symbolic ingredient or component abstraction
+9. Surreal but refined blend of realism and imagination
+
+Product rules: maintain 100% fidelity to the product's shape, proportions, label, type, color, and branding. No distortion or redesign. Clean product-to-background separation.
+
+Lighting and finish: soft controlled studio lighting, subtle highlights, realistic shadows, ultra-sharp focus, high dynamic range, editorial luxury aesthetic.
+
+Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
+```
+
 ## 🧪 Karşılaştırma ve Topluluk Örnekleri
 
 > **29 özenle seçilmiş vaka** — [Tüm Karşılaştırma Örneklerini Keşfet →](cases/comparison.md)
@@ -11434,6 +11588,55 @@ Avoid all exaggerated or stylized effects.
 ```
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
 ```
+
+<!-- Case 111: Pretzel ustası storyboard'u (by @TechieBySA) -->
+### Case 111: [Pretzel ustası storyboard'u](https://x.com/TechieBySA/status/2069811464324460679) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case111/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pretzel ustası storyboard'u"></a> |
+
+**İstem:**
+
+```
+“Create a crisp, clean infographic storyboard poster for THE PRETZEL MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep golden brown pretzel crust, warm caramel tones, coarse white salt crystals, rich wood textures, warm Bavarian daylight.
+Top header:
+THE PRETZEL MAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · GOLDEN · TWISTED · STRAIGHT FROM BAVARIA
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Same Pixar-style middle-aged Bavarian male baker throughout — warm round face, thick blonde mustache, traditional lederhosen with suspenders, white shirt, small charming wooden pretzel stand, string lights overhead, wooden beer barrels nearby, warm daylight, charming German town square or beer garden visible behind him.
+8 panels:
+Panel 1 — THE OPENER: Wide shot. Baker stands behind his wooden pretzel stand, warm daylight flooding the scene, string lights hanging above, traditional German buildings softly visible behind him. He spreads his arms wide and says "Fresh Pretzel!" with a massive proud smile. His world established. You know exactly what's coming.
+Panel 2 — THE ROPE: Close-up. Both hands rolling a length of soft pale dough into a long even rope on the wooden counter — rolling back and forth with practiced rhythm, the rope stretching longer and thinner with each pass.
+Panel 3 — THE TWIST: Hero craft frame. Close-up dramatic. Both hands lifting the dough rope and crossing it into the iconic pretzel shape — looping the ends, twisting them together, folding them down onto the body to form the classic pretzel knot. The most unique hand motion in the entire series. Nobody has shown this in Pixar style.
+Panel 4 — THE BATH: Close-up. The shaped pretzel dipped into a pot of bubbling baking soda water — briefly submerged, lifted back out glistening and slightly darkened, ready for the oven. The step that gives pretzels their signature deep color and chew.
+Panel 5 — THE SALT: Close-up dramatic. Coarse white salt crystals scattered generously over the wet pretzel surface — sticking instantly, catching the daylight, vivid white against the pale dough.
+Panel 6 — THE OVEN: Wide medium with him visible. Baker slides the tray of pretzels into the glowing oven, closes the door. Steps back with a satisfied nod. The wait begins.
+Panel 7 — THE REVEAL: The hero frame. Oven door opens — pretzels emerging deep golden brown, glossy, perfectly twisted, steam rising. He lifts the tray with both hands, eyes lighting up with pride. The most beautiful pretzels you have ever seen.
+Panel 8 — THE TEAR: Wide warm shot. Baker tears a warm pretzel apart with both hands — soft warm interior revealed, steam escaping, salt crystals visible on the golden crust. Eyes closing in pure satisfaction. String lights and the warm Bavarian square glowing behind him.
+Footer:
+VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough rope to the tear.
+CAMERA TIPS: wide on the stand opener, close-up for the rope roll, close-up dramatic for the twist, close-up for the baking soda bath, close-up dramatic for the salt, wide medium for the oven, hero wide for the reveal, wide warm for the tear
+LIGHT & STYLE: warm Bavarian daylight throughout, deep golden pretzel crust, coarse white salt, rich wood textures, traditional lederhosen, string lights, Pixar vivid warm colors throughout
+BAKER NOTES: one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
+```
+
+<!-- Case 112: Kuş yuvası sandalye konsept panosu (by @iamaiistudio) -->
+### Case 112: [Kuş yuvası sandalye konsept panosu](https://x.com/iamaiistudio/status/2069779689074561192) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case112/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Kuş yuvası sandalye konsept panosu"></a> |
+
+**İstem:**
+
+```
+Design concept board: bird nest weaving methods as the inspiration for a sculptural lounge chair. Four-stage sequence from nest-building reference photos to construction diagrams, then organic form abstraction, then the finished product. Interlocking woven frame forms the seat and backrest. Natural fiber upholstery with soft cushioning. Earthy warm tones with a polished, refined surface. Sustainable luxury aesthetic. Presentation layout with process sketches in the top half, final rendered chair in the bottom half. Warm natural lighting.
+
+AR 4:3
+```
+
 ## Ingredient Preparation Rules
 
 * Maguro: clean block slicing into uniform nigiri portions

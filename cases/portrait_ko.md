@@ -3943,3 +3943,51 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 ```
 Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
 ```
+
+<!-- Case 318: 후지필름 감성 커플 포트레이트 (by @iamaiistudio) -->
+### Case 318: [후지필름 감성 커플 포트레이트](https://x.com/iamaiistudio/status/2069961089719353505) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case318/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 후지필름 감성 커플 포트레이트"></a> |
+
+**프롬프트:**
+
+```
+9:16 vertical portrait of a young Japanese couple captured in Fujifilm analog film style
+
+Film aesthetic: Fujifilm Pro 400H / Superia emulation, muted pastel palette, faint green-magenta color cast, low contrast, soft highlight falloff, fine film grain, gentle halation around light sources
+
+Lighting: natural window light, diffused and airy, soft shadow transitions, bright but gentle indoor daylight
+
+Subjects: two young Japanese people, minimal natural makeup, realistic skin with subtle texture and natural imperfections
+
+Female: oversized button-up shirt, loose shorts, casual relaxed styling
+Male: simple light t-shirt or shirt, clean understated look
+Both: natural, slightly tousled hair
+
+Pose: intimate closeness, sitting or standing side by side; she leans gently toward him, one hand on his shoulder or chest; he tilts in, faces nearly touching, the moment just before a kiss
+
+Expression: soft natural smiles or tender gaze toward each other, genuine emotional warmth
+
+Camera: waist-up close framing, eye-level angle, slight handheld quality, intimate feel
+
+Setting: minimal indoor space near a window, soft curtains, clean neutral background
+
+Mood: warm, romantic, quiet everyday intimacy
+
+Quality: ultra-realistic, analog film character, gentle grain, slight softness, natural imperfections
+```
+
+<!-- Case 319: 랜턴 하이커 스튜디오 포트레이트 (by @iamaiistudio) -->
+### Case 319: [랜턴 하이커 스튜디오 포트레이트](https://x.com/iamaiistudio/status/2069812774277087740) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case319/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 랜턴 하이커 스튜디오 포트레이트"></a> |
+
+**프롬프트:**
+
+```
+3D render, stylized full-body side-view portrait of an elderly male hiker with a long white beard, walking right. Solid seamless deep-teal studio background with soft floor reflections. He wears a brown wide-brim felt hat, a gray-blue plaid shirt, cuffed brown corduroy trousers, and scuffed dark work boots. Large canvas-and-wicker backpack with leather straps on his back. Right hand holds a lit vintage hurricane lantern (brass frame, glass globe) casting a warm amber glow. Left hand grips a plain wooden walking stick. Textured matte finish, soft diffused studio lighting, vertical composition with generous negative space above.
+```
